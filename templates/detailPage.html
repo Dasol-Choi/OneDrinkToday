@@ -1,0 +1,116 @@
+<script src="/static/lib/jquery-3.6.0.min.js"></script>
+<script type="text/javascript">
+    //함수
+    $(document).ready(function () {
+        const url = new URL(window.location.href); //url주소 가져오기
+        var qwe1 = url['pathname']
+        var qwe = qwe1.substring(1)
+        recommend();
+    });
+</script>
+    <script src="https://developers.kakao.com/sdk/js/kakao.js"></script>
+    <script>
+        Kakao.init('91162417cc0810280c6a8d727a6240cf');
+        Kakao.isInitialized();
+    </script>
+<script>
+    function kakaoShare() {
+    Kakao.Link.sendDefault({
+        objectType: 'feed',
+        content: {
+            title: '오늘의 한 잔은?',
+            description: '{{ cocktail_info.name }}',
+            imageUrl:
+                '{{ cocktail_info.img }}',
+            link: {
+               webUrl: 'http://오늘한잔.shop/'+'{{ cocktail_info.name }}',
+               mobileWebUrl: 'http://오늘한잔.shop/'+'{{ cocktail_info.name }}',
+               androidExecutionParams: 'test',
+               iosExecutionParams: 'test'
+            },
+        },
+        buttons: [
+            {
+                title: '웹으로 이동',
+                link: {
+                    webUrl: 'http://오늘한잔.shop/'+'{{ cocktail_info.name }}',
+                    mobileWebUrl: 'http://오늘한잔.shop/'+'{{ cocktail_info.name }}',
+                    androidExecutionParams: 'test',
+                    iosExecutionParams: 'test'
+                }
+            }
+        ]
+    });
+}
+</script>
+{% extends '_layout_flask.html' %}
+{% set title= cocktail_info.name_kor %}
+{% set metaImg= cocktail_info.img %}
+{% block headLink %}
+    <link href="/static/css/aos.css" rel="stylesheet">
+    <link href="/static/css/detailPage.css" rel="stylesheet">
+{% endblock %}
+{% block content %} 
+
+<div id="main_detail">
+    <div id="cocktailTable">
+        <div class="cockTailName">
+            <li class="cockTailNameList_en">{{ cocktail_info.name }}</li>
+            <li class="cockTailNameList_ko">{{ cocktail_info.name_kor }}</li>
+        </div>
+        <div class="boxes">
+            <div id="cockTailsImg" class="cockTailBoxImg">
+                <img class="card-img-top" src="{{ cocktail_info.img }}" alt="Card image cap">
+            </div>
+            <div id="cockTailsInfo" class="cockTailBoxInfo">
+                <ul class="list-group">
+                    <li class="list-group-item"><span class="cocktail_title">베이스</span> : {{ cocktail_info.base_kor }}</li>
+                    <li class="list-group-item"><span  class="cocktail_title">도수</span> : {{ cocktail_info.abv }}</li>
+                    <li class="list-group-item"><span class="cocktail_title">맛</span> : {{ cocktail_info.flavor }}</li>
+                    <li class="list-group-item"><span  class="cocktail_title">가니시</span> : {{ cocktail_info.garnish }}</li>
+                    <li class="list-group-item"><span  class="cocktail_title">재료</span><br>: {{ cocktail_info.ingredients }}</li>
+                    <li class="list-group-item"><span  class="cocktail_title">레시피</span><br>: {{ cocktail_info.recipe }}</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="btn_share_kakao">
+    <button type="button" class="btn_kakao" onclick="kakaoShare()">카카오톡 공유하기</button>
+</div>
+
+
+    <p class="recommendation">이런 <span class="emphasis_recommendation">칵테일</span>은 어떠세요?</p>
+
+    <div id="recommend" class="recommendCocktail">
+        <div class="sub_cont_inner">
+            <ul class="lst-recommend">
+                {% for item in random_info %}
+                    <li class="lst-item" data-aos="fade-up" data-aos-offset="0">
+                        {% set coverItem = ["Pimm's Cup (or Classic Pimm's)","Mezcal Margarita"] %}
+                        
+                        <a href="/{{ item.name | urlencode }}" class="card-cocktail {{'cover' if item.name in coverItem}}">
+                            <div class="bx-thumb">
+                                <img src="{{ item.img }}" alt="{{ item.name }}">
+                            </div>
+                            <div class="bx-cocktail-info">
+                                <span class="cocktail-en-name">{{ item.name }}</span>
+                                <strong class="cocktail-name">{{ item.name_kor }}</strong>
+                                <p class="cocktail-ingredients">베이스 : {{ item.base_kor }}</p>
+                            </div>
+                        </a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+{% endblock %}
+
+{% block script %}
+<script src="/static/lib/aos.js"></script>
+<script>
+  AOS.init({
+      duration: 1000,
+  });
+</script>
+{% endblock %}

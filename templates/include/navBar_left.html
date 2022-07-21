@@ -1,0 +1,102 @@
+
+<!-- <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js"></script>
+<script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>  -->
+<script src="/static/js/list.js"></script>
+<script>
+    function searching(category, detail) {
+        let title = '';
+        if (title.length === 0) title = '__default'
+        else title = $('#title_val').val().split('|')[0].trim()
+        $.ajax({
+            type: "GET",
+            url: "/search/" + category + "/" + detail + "/" + title,
+            data: {},
+            success: function (response) {
+                const row = response['cocktail_result'];
+                listPaging(row)
+                let HTML = makeHTML(cocktailList[0]);
+                $('.lst-cocktail').html(HTML);
+            }
+        })
+    }
+</script>
+{% if title %}
+    <input type="hidden" id="title_val" value="{{ title }}">
+{% else %}
+
+{% endif %}
+<div class="bx-category">
+    <div class="bx-category-tit">
+        <strong class="category-tit">Filter</strong>
+        <button class="btn btn-category-close" data-role="btn-close">
+            <i class="bi bi-x"></i>
+            <span class="blind">닫기</span>
+        </button>
+    </div>
+
+    <div class="category-group">
+        <strong class="group-tit">베이스<span class="en">Base</span></strong>
+        <div class="bx-group">
+            <ul class="lst-group">
+                {% for base in categories['bases'] %}
+                    <li class="group-item">
+                        <button class="btn btn-category" onclick="searching('base', '{{ base._id.base }}')">
+                            <span>
+                                {{ base._id.base }}
+                            </span>
+                            <span class="en" style="font-size: 10px">{{ base._id.base_kor }}</span></button>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+
+    <div class="category-group">
+        <strong class="group-tit">도수<span class="en">Alcohol by Volume</span></strong>
+        <div class="bx-group">
+            <ul class="lst-group">
+                {% for lv in categories['abv_lvs'] %}
+                    <li class="group-item">
+                        <button class="btn btn-category" onclick="searching('abv_lv', {{ lv }})">
+                            {% if lv == 1 %}
+                                10도 이하
+                            {% endif %}
+                            {% if lv == 2 %}
+                                20도 이하
+                            {% endif %}
+                            {% if lv == 3 %}
+                                30도 이하
+                            {% endif %}
+                            {% if lv == 4 %}
+                                40도 이하
+                            {% endif %}
+                        </button>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+    <div class="category-group">
+        <strong class="group-tit">맛<span class="en">Taste</span></strong>
+        <div class="bx-group">
+            <ul class="lst-group">
+                <li class="group-item">
+                    <button class="btn btn-category" onclick="searching('flavor', 4)">
+                        달달한 맛
+                    </button>
+                </li>
+                <li class="group-item">
+                    <button class="btn btn-category" onclick="searching('flavor', 7)">
+                        드라이한 맛
+                    </button>
+                </li>
+                <li class="group-item">
+                    <button class="btn btn-category" onclick="searching('flavor', 9)">
+                        아주 드라이한 맛
+                    </button>
+
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>

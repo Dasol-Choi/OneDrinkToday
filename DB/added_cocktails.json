@@ -1,0 +1,1146 @@
+[
+	{
+		"name": "Caribbean Colada",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af2fee616e7b.jpg",
+		"base": "Rum",
+		"garnish": "Pineapple, Luxardo Maraschino cherry & paper parasol",
+		"flavor": 4,
+		"abv": 17.21,
+		"abv_lv": 2,
+		"ingredients": [
+			"30 ml",
+			"Rum - White (charcoal-filtered) 1-3 year old light",
+			"30 ml",
+			"Rum - 6-10yr old Caribbean blended rum",
+			"30 ml",
+			"Pineapple (ananas) liqueur",
+			"5 ml",
+			"Coconut syrup",
+			"5 ml",
+			"Passion fruit syrup",
+			"30 ml",
+			"Orange juice (freshly squeezed)"
+		],
+		"recipe": "SHAKE all ingredients with ice and strain into glass filled with crushed ice",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "San Francisco",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af3121131c5f.jpg",
+		"base": "Vodka",
+		"garnish": "Pineapple wedge",
+		"flavor": 4,
+		"abv": 14.52,
+		"abv_lv": 2,
+		"ingredients": [
+			"60 ml",
+			"Vodka",
+			"15 ml",
+			"Triple sec (e.g. Cointreau)",
+			"15 ml",
+			"Crème de banane liqueur",
+			"45 ml",
+			"Orange juice (freshly squeezed)",
+			"45 ml",
+			"Pineapple juice (fresh pressed)",
+			"7.5 ml",
+			"Grenadine/pomegranate syrup"
+		],
+		"recipe": "SHAKE all ingredients with ice and strain into ice-filled glass",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Blue Riband",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af2fdb7dd7bf.jpg",
+		"base": "Gin",
+		"garnish": "Luxardo Maraschino cherry",
+		"flavor": 4,
+		"abv": 30.93,
+		"abv_lv": 4,
+		"ingredients": [
+			"45 ml",
+			"Gin",
+			"22.5 ml",
+			"Triple sec (e.g. Cointreau)",
+			"22.5 ml",
+			"Blue curaçao liqueur"
+		],
+		"recipe": "STIR all ingredients with ice and strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Pink Spritz",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2021/03/6058598063533.jpg",
+		"base": "Etc.",
+		"garnish": "Pink grapefruit wedge",
+		"flavor": 4,
+		"abv": 4.24,
+		"abv_lv": 1,
+		"ingredients": [
+			"90 ml",
+			"Grapefruit soda - Pink",
+			"45 ml",
+			"Aperol (orange-red aperitivo)",
+			"30 ml",
+			"Prosecco sparkling wine "
+		],
+		"recipe": "POUR all ingredients into ice-filled glass and briefly stir",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Pacific Breeze",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2020/07/5f1028e35ff13.jpg",
+		"base": "Etc.",
+		"garnish": "Lime slice wheel",
+		"flavor": 4,
+		"abv": 8.32,
+		"abv_lv": 1,
+		"ingredients": [
+			"30 ml",
+			"Triple sec (e.g. Cointreau)",
+			"30 ml",
+			"Watermelon liqueur",
+			"45 ml",
+			"Cranberry juice (sweetened)",
+			"10 ml",
+			"Lime juice (freshly squeezed)",
+			"45 ml",
+			"Lemon-lime soda (Sprite/7-Up)"
+		],
+		"recipe": "SHAKE first 4 ingredients with ice and strain into ice-filled glass",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Belafonte",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2021/12/61aa0d53397fe.jpg",
+		"base": "Etc.",
+		"garnish": "Orange wheel slice",
+		"flavor": 3,
+		"abv": 8.18,
+		"abv_lv": 1,
+		"ingredients": [
+			"30 ml",
+			"Campari or other red bitter liqueur",
+			"30 ml",
+			"Dry white port",
+			"90 ml",
+			"Tonic water"
+		],
+		"recipe": "POUR all ingredients into ice-filled glass",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Morado",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2019/09/5d72528006716.jpg",
+		"base": "Gin",
+		"garnish": "Lime zest twist (discarded)",
+		"flavor": 4,
+		"abv": 26.72,
+		"abv_lv": 3,
+		"ingredients": [
+			"35 ml",
+			"Gin",
+			"12.5 ml",
+			"Cream sherry (medium/sweet)",
+			"12.5 ml",
+			"Crème de mûre (blackberry)",
+			"5 ml",
+			"Coffee liqueur",
+			"2",
+			"Peychaud's / Creole bitters"
+		],
+		"recipe": "STIR all ingredients with ice and strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Jelly Belly Beany",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af3084f7244f.jpg",
+		"base": "Rum",
+		"garnish": "Jelly Bean sweets",
+		"flavor": 4,
+		"abv": 23.74,
+		"abv_lv": 3,
+		"ingredients": [
+			"40 ml",
+			"Rum - White (charcoal-filtered) 1-3 year old light",
+			"20 ml",
+			"Peach 'schnapps' liqueur",
+			"20 ml",
+			"Coconut rum liqueur (35-40% alc./vol.)",
+			"2",
+			"Orange bitters",
+			"10 ml",
+			"Chilled water"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Blanco 43",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2019/09/5d822b95180d3.jpg",
+		"base": "Etc.",
+		"garnish": "Dust with freshly grated nutmeg",
+		"flavor": 3,
+		"abv": 6.57,
+		"abv_lv": 1,
+		"ingredients": [
+			"150 ml",
+			"Milk (whole milk/full 3-4% fat)",
+			"50 ml",
+			"Licor 43 (or other spiced vanilla liqueur)"
+		],
+		"recipe": "POUR ingredients into ice-filled glass and briefly stir",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Doctor Pepper",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/12/5c0e646c2e289.jpg",
+		"base": "Etc.",
+		"garnish": "Lime wedge",
+		"flavor": 3,
+		"abv": 6.07,
+		"abv_lv": 1,
+		"ingredients": [
+			"30 ml",
+			"Amaretto liqueur",
+			"75 ml",
+			"India pale ale (IPA) beer",
+			"75 ml",
+			"Cola (e.g. Coca Cola & Pepsi Cola)"
+		],
+		"recipe": "POUR all ingredients into ice-filled glass and briefly stir",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Coffee & Tonic",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2020/10/5f7c36890afef.jpg",
+		"base": "Etc.",
+		"garnish": "None",
+		"flavor": 4,
+		"abv": 5.47,
+		"abv_lv": 1,
+		"ingredients": [
+			"50 ml",
+			"Italicus or other Rosolio di Bergamotto / bergamot liqueur",
+			"100 ml",
+			"Tonic water",
+			"5 ml",
+			"Cold brew coffee"
+		],
+		"recipe": "POUR first 2 ingredients into ice-filled glass and briefly stir",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Optimist",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af30dd3d707c.jpg",
+		"base": "Rum",
+		"garnish": "Charcoal rim & grapefruit zest twist (discarded)",
+		"flavor": 6,
+		"abv": 17.13,
+		"abv_lv": 2,
+		"ingredients": [
+			"50 ml",
+			"Rum - White (charcoal-filtered) 1-3 year old light",
+			"30 ml",
+			"Sherry - Fino",
+			"15 ml",
+			"Lime juice (freshly squeezed)",
+			"15 ml",
+			"Sugar syrup (rich) 2 sugar to 1 water",
+			"2",
+			"Peychaud's / Creole bitters"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "White Americano",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af31898802c2.jpg",
+		"base": "Etc.",
+		"garnish": "Lemon zest twist & red currant string",
+		"flavor": 6,
+		"abv": 13.99,
+		"abv_lv": 2,
+		"ingredients": [
+			"30 ml",
+			"Lillet Blanc (or other aromatized wine)",
+			"15 ml",
+			"Gentian liqueur (e.g. Suze, Salers etc)",
+			"10 ml",
+			"Elderflower liqueur",
+			"3",
+			"Orange bitters",
+			"15 ml",
+			"Champagne Brut"
+		],
+		"recipe": "STIR first 4 ingredients with ice and strain into ice-filled glass",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Pink Lemonade (Alcohol-free*)",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af30fbd950e6.jpg",
+		"base": "Etc.",
+		"garnish": "Lemon slice",
+		"flavor": 5,
+		"abv": 0.0,
+		"abv_lv": 1,
+		"ingredients": [
+			"45 ml",
+			"Lemon juice (freshly squeezed)",
+			"12.5 ml",
+			"Sugar syrup (rich) 2 sugar to 1 water",
+			"12.5 ml",
+			"Grenadine/pomegranate syrup",
+			"75 ml",
+			"Soda (club soda)"
+		],
+		"recipe": "SHAKE first three ingredients with ice and strain into ice-filled glass",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Blue Hawaii",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2020/07/5f17ff14791b8.jpg",
+		"base": "Rum",
+		"garnish": "Pineapple wedge, Luxardo Maraschino cherry, paper parasol and straw",
+		"flavor": 4,
+		"abv": 9.16,
+		"abv_lv": 1,
+		"ingredients": [
+			"22.5 ml",
+			"Rum - White (charcoal-filtered) 1-3 year old light",
+			"22.5 ml",
+			"Vodka",
+			"15 ml",
+			"Blue curaçao liqueur",
+			"90 ml",
+			"Pineapple juice (fresh pressed)",
+			"10 ml",
+			"Lime juice (freshly squeezed)",
+			"10 ml",
+			"Lemon juice (freshly squeezed)",
+			"10 ml",
+			"Sugar syrup (rich) 2 sugar to 1 water"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into glass filled with crushed ice",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Prohibition Daisy (Alcohol-free*)",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af31050ccdce.jpg",
+		"base": "Etc.",
+		"garnish": "Pineapple wedge, orange wheel & raspberries",
+		"flavor": "Undefined",
+		"abv": 0.0,
+		"abv_lv": 1,
+		"ingredients": [
+			"30 ml",
+			"Orange juice (freshly squeezed)",
+			"15 ml",
+			"Lime juice (freshly squeezed)",
+			"15 ml",
+			"Lemon juice (freshly squeezed)",
+			"30 ml",
+			"Pineapple juice (fresh pressed)",
+			"30 ml",
+			"Raspberry (framboise) sugar syrup"
+		],
+		"recipe": "SHAKE all ingredients with ice and strain into glass filled with crushed ice",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Palo Negro",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2020/07/5f19690645182.jpg",
+		"base": "Tequila",
+		"garnish": "Coin-sized orange zest twist",
+		"flavor": 6,
+		"abv": 28.41,
+		"abv_lv": 3,
+		"ingredients": [
+			"45 ml",
+			"Tequila reposado",
+			"22.5 ml",
+			"Palo cortado sherry",
+			"10 ml",
+			"Rum - Dark / black / blackstrap",
+			"5 ml",
+			"Grand Marnier liqueur",
+			"2.5 ml",
+			"Demerara/Muscovado/brown sugar syrup (2 sugar : 1 wate"
+		],
+		"recipe": "STIR all ingredients with ice and strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Christmas Negroni",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2022/02/62189d2d202cd.jpg",
+		"base": "Gin",
+		"garnish": "Orange slice wheel",
+		"flavor": 6,
+		"abv": 26.2,
+		"abv_lv": 3,
+		"ingredients": [
+			"30 ml",
+			"Gin",
+			"30 ml",
+			"Vermouth - sweet aged (Antica Formula)",
+			"15 ml",
+			"Becherovka liqueur",
+			"10 ml",
+			"Campari or other red bitter liqueur",
+			"5 ml",
+			"Sloe gin liqueur",
+			"2.5 ml",
+			"Falernum liqueur"
+		],
+		"recipe": "STIR all ingredients with ice and strain into ice-filled glass (preferably over a large cube or chunk or block ice)",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Virgin Passion (Alcohol-free*)",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2019/07/5d35d6fd1d7b2.jpg",
+		"base": "Etc.",
+		"garnish": "Float half fresh passion fruit",
+		"flavor": 5,
+		"abv": 0.0,
+		"abv_lv": 1,
+		"ingredients": [
+			"1",
+			"/ Passion fruit (fresh fruit)",
+			"60 ml",
+			"Apple juice",
+			"15 ml",
+			"Lime juice (freshly squeezed)",
+			"15 ml",
+			"Passion fruit syrup"
+		],
+		"recipe": "SCOOP the seeds and flesh of passion fruit into base of shaker",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Pimm's Cup (or Classic Pimm's)",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/5/26/20189a9d58d612c983138515583ecc568d8a.jpg",
+		"base": "Etc.",
+		"garnish": "Mint sprig",
+		"flavor": 4,
+		"abv": 5.3,
+		"abv_lv": 1,
+		"ingredients": [
+			"45 ml",
+			"Fruit cup liqueur",
+			"1",
+			"Orange (fresh fruit)",
+			"1",
+			"Lemon (fresh)",
+			"1",
+			"Cucumber (fresh)",
+			"2",
+			"Small ripe strawberries (hulled)",
+			"60 ml",
+			"Lemonade",
+			"75 ml",
+			"Ginger ale"
+		],
+		"recipe": "POUR Pimm's into glass half filled with ice",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Rosarita Margarita",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af311797d641.jpg",
+		"base": "Tequila",
+		"garnish": "salt rim (optional) & lime wedge on rim",
+		"flavor": 7,
+		"abv": 16.75,
+		"abv_lv": 2,
+		"ingredients": [
+			"45 ml",
+			"Tequila reposado",
+			"22.5 ml",
+			"Grand Marnier liqueur",
+			"15 ml",
+			"Cranberry juice (sweetened)",
+			"15 ml",
+			"Lime cordial (sweetened lime juice)",
+			"22.5 ml",
+			"Lime juice (freshly squeezed)",
+			"10 ml",
+			"Sugar syrup (rich) 2 sugar to 1 water"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Blue Lady",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2020/07/5f058bea78495.jpg",
+		"base": "Etc.",
+		"garnish": "Express coin-sized orange zest twist and float in the centre of cocktail",
+		"flavor": 7,
+		"abv": 16.43,
+		"abv_lv": 2,
+		"ingredients": [
+			"45 ml",
+			"Blue curaçao liqueur",
+			"30 ml",
+			"Gin",
+			"22.5 ml",
+			"Lemon juice (freshly squeezed)",
+			"10 ml",
+			"Pasteurised egg white"
+		],
+		"recipe": "SHAKE all ingredients with ice and strain back into shaker",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Egg Sour",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/10/5bd1dd399a6c8.jpg",
+		"base": "Brandy",
+		"garnish": "Float 3 small dashes Angostura bitters on surface of drink",
+		"flavor": 7,
+		"abv": 25.81,
+		"abv_lv": 3,
+		"ingredients": [
+			"30 ml",
+			"Cognac (brandy)",
+			"30 ml",
+			"Orange Curaçao liqueur",
+			"10 ml",
+			"Lemon juice (freshly squeezed)",
+			"5 ml",
+			"Sugar syrup (rich) 2 sugar to 1 water",
+			"1",
+			"Egg (white & yolk)"
+		],
+		"recipe": "SHAKE all ingredients with ice and strain back into shaker",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Sweet Liberty's Sherry Cobbler",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2020/03/5e6a49d998111.jpg",
+		"base": "Sherry",
+		"garnish": "Fresh raspberries & mint sprig bouquet",
+		"flavor": 7,
+		"abv": 7.66,
+		"abv_lv": 1,
+		"ingredients": [
+			"75 ml",
+			"Sherry - Fino",
+			"30 ml",
+			"Pink grapefruit juice (freshly squeezed)",
+			"15 ml",
+			"Elderflower liqueur",
+			"15 ml",
+			"Pineapple juice (fresh pressed)",
+			"15 ml",
+			"Honey syrup (3 honey to 1 water)"
+		],
+		"recipe": "SHAKE all ingredients with ice and strain into a glass filled with crushed ice",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Black & Tan",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2016/7/45/2016eff9f36e2225a5b984a703c69711f544.jpg",
+		"base": "Etc.",
+		"garnish": "None",
+		"flavor": 7,
+		"abv": 4.32,
+		"abv_lv": 1,
+		"ingredients": [
+			"1/2 pint",
+			"Pale ale",
+			"1/2 pint",
+			"Beer - Stout"
+		],
+		"recipe": "POUR pale ale or lager into chilled glass then carefully FLOAT Guinness on top",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Garibaldi",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/4/46/20189040c0bc7bfb6057eda95f0ecca6ba4c.jpg",
+		"base": "Etc.",
+		"garnish": "Orange wedge rested across rim",
+		"flavor": 8,
+		"abv": 5.69,
+		"abv_lv": 1,
+		"ingredients": [
+			"45 ml",
+			"Campari or other red bitter liqueur",
+			"2.5 ml",
+			"Sugar syrup (rich) 2 sugar to 1 water",
+			"120 ml",
+			"Orange juice (freshly squeezed)"
+		],
+		"recipe": "Squeeze orange juice using pillar or elbow press and fine strain to remove any flesh",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "When The Smoke Cleared",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af3187d8b540.jpg",
+		"base": "Etc.",
+		"garnish": "Crystallised stem ginger",
+		"flavor": 7,
+		"abv": 14.72,
+		"abv_lv": 2,
+		"ingredients": [
+			"45 ml",
+			"Mezcal",
+			"15 ml",
+			"Aperol (orange-red aperitivo)",
+			"7.5 ml",
+			"Ginger sugar syrup",
+			"22.5 ml",
+			"Lime juice (freshly squeezed)",
+			"22.5 ml",
+			"Pineapple juice (fresh pressed)",
+			"2 drop",
+			"Saline solution"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Journey of Brothers",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2019/04/5cc2e072cd87e.jpg",
+		"base": "Whisky",
+		"garnish": "Dehydrated lemon wheel",
+		"flavor": 8,
+		"abv": 13.49,
+		"abv_lv": 2,
+		"ingredients": [
+			"40 ml",
+			"Whisky - Scotch whisky (blended)",
+			"20 ml",
+			"Calvados & straight applejacks",
+			"15 ml",
+			"Sherry - Fino",
+			"1",
+			"Celery bitters",
+			"90 ml",
+			"Tonic water"
+		],
+		"recipe": "STIR first 4 ingredients with ice and strain into ice-filled glass",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Gin & Tonic",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af30500e4387.jpg",
+		"base": "Gin",
+		"garnish": "Lime wedge",
+		"flavor": 7,
+		"abv": 11.5,
+		"abv_lv": 2,
+		"ingredients": [
+			"50 ml",
+			"Gin",
+			"120 ml",
+			"Tonic water"
+		],
+		"recipe": "POUR ingredients into ice-filled glass and serve",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Garibaldino",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2022/01/61e9659b12cb3.jpg",
+		"base": "Etc.",
+		"garnish": "Clementine (or tangerine / mandarin) orange slice",
+		"flavor": 7,
+		"abv": 7.65,
+		"abv_lv": 1,
+		"ingredients": [
+			"30 ml",
+			"Americano rosso/rosa",
+			"5 ml",
+			"Italicus or other Rosolio di Bergamotto / bergamot liqueur",
+			"10 ml",
+			"Tangerine / Mandarin / Clementine juice (fresh juice)",
+			"2",
+			"Tonka bitters",
+			"30 ml",
+			"White grape and apricot soda"
+		],
+		"recipe": "STIR first 4 ingredients with ice and strain into ice-filled glass",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Porto Tonico (White Port & Tonic)",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2021/12/61aa0d67bdf51.jpg",
+		"base": "Etc.",
+		"garnish": "Orange wheel slice",
+		"flavor": 7,
+		"abv": 6.06,
+		"abv_lv": 1,
+		"ingredients": [
+			"45 ml",
+			"Dry white port",
+			"90 ml",
+			"Tonic water"
+		],
+		"recipe": "POUR all ingredients into ice-filled glass",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	},
+	{
+		"name": "Sbagliato With Tonic",
+		"name_kor": "직접 작성 필요",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2019/06/5cfa928a6c04e.jpg",
+		"base": "Etc.",
+		"garnish": "Orange slice",
+		"flavor": 7,
+		"abv": 5.65,
+		"abv_lv": 1,
+		"ingredients": [
+			"25 ml",
+			"Campari or other red bitter liqueur",
+			"25 ml",
+			"Vermouth - Rosso/rouge (sweet) vermouth",
+			"100 ml",
+			"Tonic water (salty lemon)"
+		],
+		"recipe": "POUR ingredients into ice-filled glass and lightly stir",
+		"tag": {
+			"기분별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"인원별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			],
+			"상황별": [
+				"태그가 아직 입력되지 않았습니다",
+				"태그가 아직 입력되지 않았습니다"
+			]
+		}
+	}
+]

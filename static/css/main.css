@@ -1,0 +1,292 @@
+@font-face {
+  src: url("/static/css/fonts/Recipekorea.ttf");
+  font-family: "recipekorea";
+}
+
+body {
+  position: relative;
+  min-height: 100vh;
+  padding-bottom:88px !important; /* FOOTER 높이 */
+  background-image: url("/static/img/main_background_img.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: calc(0.75em + 1vw);
+}
+
+#main_view {
+  padding-top: 100px;
+  margin: auto;
+  width: 80vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#search {
+  display: flex;
+  height: 300px;
+  flex-direction: column;
+  padding-left: 50px;
+  padding-right: 50px;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  width: 35vw;
+  padding-left: 20px;
+  max-height: auto;
+  animation: blink-effect 8s step-end infinite;
+}
+
+.logo_back {
+  width: 35vw;
+  padding-left: 20px;
+  max-height: auto;
+  position: absolute;
+}
+
+.text_cocktail {
+  font-family: "recipekorea";
+  font-size: 2.6vw;
+  font-style: italic;
+  letter-spacing: 1px;
+  text-shadow: 3px 3px 5px rgb(19, 1, 29);
+  color: white;
+
+  margin: 0px 0px 10px 0px;
+}
+
+.text_cocktail_color {
+  font-family: "recipekorea";
+  color:rgb(219, 169, 255);
+  font-size: 110%;
+}
+
+.text_search_color {
+  font-family: "recipekorea";
+  color: rgb(252, 213, 106);
+  font-size: 110%;
+}
+
+.text_guide {
+  font-family: "recipekorea";
+  font-size: 2vw;
+  font-weight: normal;
+  text-shadow: 3px 3px 5px rgb(19, 1, 29);
+  color: white;
+
+  margin: 0px 0px 20px 0px;
+}
+
+.search_box {
+  display: flex;
+  position: relative;
+}
+
+.input_box {
+  all: unset;
+  width: 30vw;
+  height: 35px;
+  background-color: white;
+  border-radius: 50px;
+  box-shadow: 3px 3px 5px rgb(19, 1, 29);
+}
+
+.input_box[placeholder] {
+  font-family: "recipekorea";
+  font-size: 1.8vh;
+  color: black;
+  padding-top: 10px;
+  padding-left: 25px;
+}
+
+.btn_search {
+  all: unset;
+  width: 60px;
+  height: 45px;
+  background-color: rgb(165, 127, 192);
+  border-radius: 0px 50px 50px 0px;
+  position: absolute;
+  right: 0;
+}
+
+.bi-search {
+  display: flex;
+  justify-content: center;
+  padding-right: 5px;
+  color: white;
+}
+
+.btn_offer {
+  all: unset;
+  margin: 20px 0px;
+  width: 32vw;
+  height: 50px;
+  background-color: rgb(108, 63, 139);
+  border-radius: 50px;
+  box-shadow: 3px 3px 5px rgb(19, 1, 29);
+}
+
+.btn_offer_text {
+  font-family: "recipekorea";
+  font-size: 2.2vh;
+  text-align: center;
+  color: white;
+  padding-top: 8px;
+  margin: 0;
+}
+
+.btn_cocktail_color {
+  font-family: "recipekorea";
+  color: rgb(234, 204, 255)
+}
+
+#footer {
+  position:absolute;
+  bottom:0;
+  width: 100%;
+  padding:30px 0 40px;
+  text-align:center;
+  background-color: rgb(12, 12, 12);
+}
+
+.copy {
+  color: rgb(109, 109, 109);
+  font-size: 12px;
+}
+
+@media screen and (max-width: 768px) {
+  #main_view {
+    flex-direction: column;
+    padding-top: 100px;
+  }
+
+  .logo {
+    width: 50vw;
+    height: auto;
+    margin: auto;
+    padding: 0px;
+  }
+
+  .logo_back {
+    width: 50vw;
+    height: auto;
+    margin: auto;
+    padding: 0px;
+  }
+
+  #search {
+    margin-top: 10px;
+    padding-left: 50px;
+  }
+
+  .text_cocktail {
+    font-size: 5.4vw;
+  }
+
+  .text_guide {
+    font-size: 3.8vw;
+  }
+
+  .input_box {
+    width: 60vw;
+    height: 40px;
+  }
+
+  .btn_search {
+    height: 50px;
+  }
+
+  .input_box[placeholder] {
+    padding-top: 10px;
+    font-size: 2.2vh;
+  }
+
+  .btn_offer {
+    width: 65vw;
+    height: 55px;
+  }
+
+  .btn_offer_text {
+    font-size: 3vh;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  
+  #main_view {
+    flex-direction: column;
+  }
+
+  .text_cocktail {
+    font-size: 6vw;
+  }
+
+  .text_guide {
+    font-size: 4vw;
+    padding-bottom: 5px;
+  }
+
+  .input_box {
+    width: 60vw;
+    height: 40px;
+  }
+
+  .input_box[placeholder] {
+    padding-top: 10px;
+    padding-right: 10px;
+    font-size: 2vh;
+  }
+
+  .btn_search {
+    height: 50px;
+  }
+
+  .btn_offer {
+    width: 70vw;
+    height: 55px;
+  }
+
+  .btn_offer_text {
+    font-size: 2.8vh;
+  }
+}
+
+@keyframes blink-effect { 
+  0% {
+    opacity: 100%;
+  }
+
+  2% {
+    opacity: 0%;
+  }
+
+  4% {
+    opacity: 100%;
+  }
+
+  6% {
+    opacity: 0%;
+  }
+
+  8% {
+    opacity: 100%;
+  }
+
+  10% {
+    opacity: 0%;
+  }
+
+  12% {
+    opacity: 100%;
+  }
+
+  14% {
+    opacity: 0%;
+  }
+
+  22% {
+    opacity: 100%;
+  }
+}

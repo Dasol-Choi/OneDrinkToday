@@ -1,0 +1,63 @@
+[
+	{
+		"name": "Triple Daiquiri",
+		//영문명, 주/부재료명 등 고유명사는 모두 첫글자 대문자인 문자열 되도록 통일
+		"name_kor": "트리플 다이키리",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2019/09/5d7251b81b293.jpg",
+		"base": "Rum",
+		"garnish": "Lime wedge",
+		"flavor": 7, //정수형(int), 상세페이지 내 sweet~dry/sour 차트와 일치하는지 체크하기
+		"abv": 24.82, //실수형(float)
+		"abv_lv": 3, //정수형(int)
+		"ingredients": [
+			"30 ml", //ml로 단위 통일, 용량과 재료명 분개
+			"Rum - White/gold 1-3 year old mellow light",
+			"15 ml",
+			"Rum - 3-5yr old Caribbean blended rum",
+			"5 ml",
+			"Cachaça",
+			"15 ml",
+			"Lime juice (freshly squeezed)",
+			"2 spoon", //재료 단위가 ml가 아닌 경우 상세페이지의 how to make 참조해서 직접 입력
+			"Powdered sugar (ground in mortar and pestle)",
+			"4 drop",
+			"Daiquiri bitters"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass",
+		"tag": {
+			"기분별": ["좋음"],
+			"인원별": ["1인", "2인"],
+			"상황별": ["여름휴가", "To Go"]
+		} //딕셔너리 안에 리스트 형식으로 직접 입력
+		// ↓ 입력할 수 있는 태그 종류들
+		//	{“기분별”: [“나쁨”, “좋음”],
+		//   “인원별”: [“1인”, “2인”, “3인 이상”],
+		//   “상황별”: [“데이트”, “소개팅”, “친구와”, “오늘밤 주인공은 나”, “이별”, “비오는 날”, “크리스마스”, “발렌타인/화이트데이”, “여름휴가”, “To Go”]}
+	},
+    {
+		"name": "20th Century Cocktail",
+		"name_kor": "20세기",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af2faad404a6.jpg",
+		"base": "Gin",
+		"garnish": "Orange zest twist",
+		"flavor": 6,
+		"abv": 19.29,
+		"abv_lv": 2,
+		"ingredients": [
+			"50 ml",
+			"Gin",
+			"30 ml",
+			"Crème de cacao liqueur (white)",
+			"30 ml",
+			"Americano Bianco",
+			"10 ml",
+			"Lemon juice (freshly squeezed)"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass",
+		"tag": {
+			"기분별": ["좋음"],
+			"인원별": ["2인", "3인 이상"],
+			"상황별": ["데이트", "소개팅", "발렌타인/화이트데이", "오늘밤 주인공은 나"]
+		}
+	}
+]

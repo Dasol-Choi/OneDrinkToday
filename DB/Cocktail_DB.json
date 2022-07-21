@@ -1,0 +1,2992 @@
+[
+	{
+		"name": "April Fool",
+		"name_kor": "에이프릴 풀",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af2fbddad21b.jpg",
+		"base": "Etc.",
+		"garnish": "Lemon zest twist (discarded) & olive",
+		"flavor": 0,
+		"abv": 0.0,
+		"abv_lv": 1,
+		"ingredients": [
+			"90 ml ",
+			"chilled water"
+		],
+		"recipe": "STIR with ice and strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"친구와",
+				"파티",
+				"기념일"
+			]
+		}
+	},
+	{
+		"name": "Brooklyn (perfect)",
+		"name_kor": "브루클린",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/5/48/2018c9b31e195ad2f91327a8a0b3000b1c04.jpg",
+		"base": "Whisky",
+		"garnish": "Luxardo maraschino cherry",
+		"flavor": 6,
+		"abv": 27.6,
+		"abv_lv": 3,
+		"ingredients": [
+			"45 ml ",
+			"whiskey - rye whiskey (100 proof / 50% alc./vol.)",
+			"15 ml ",
+			"vermouth - dry",
+			"15 ml ",
+			"vermouth - rosso/rouge (sweet) vermouth",
+			"10 ml ",
+			"amer picon",
+			"10 ml ",
+			"maraschino liqueur",
+			"10 ml ",
+			"chilled water (omit if using wet ice)"
+		],
+		"recipe": "STIR all ingredients with ice and strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음",
+				"나쁨"
+			],
+			"인원별": [
+				"1인",
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"데이트",
+				"비오는날",
+				"친구와",
+				"파티",
+				"기념일"
+			]
+		}
+	},
+	{
+		"name": "Californian Margarita",
+		"name_kor": "캘리포니안 마가리타",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2020/07/5f0ec1ea7b7ce.jpg",
+		"base": "Tequila",
+		"garnish": "Salt rim (optional) & lime wedge",
+		"flavor": 7,
+		"abv": 23.67,
+		"abv_lv": 3,
+		"ingredients": [
+			"45 ml ",
+			"tequila blanco",
+			"22.5 ml ",
+			"triple sec (e.g. cointreau)",
+			"22.5 ml ",
+			"lemon juice (freshly squeezed)",
+			"5 ml ",
+			"falernum liqueur",
+			"2 drop",
+			"Saline solution"
+		],
+		"recipe": "SHAKE all ingredients with ice and strain into ice-filled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"친구와",
+				"파티",
+				"기념일",
+				"오늘밤 주인공은 나",
+				"크리스마스",
+				"여름휴가",
+				"To Go"
+			]
+		}
+	},
+	{
+		"name": "Calvados Fruit Cup (Difford's Cup No.13)",
+		"name_kor": "칼바도스 프룻 컵, 넘버 13",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af3019dccd17.jpg",
+		"base": "Etc.",
+		"garnish": "Lemon, orange & strawberry slices, mint sprig & borage",
+		"flavor": 6,
+		"abv": 12.44,
+		"abv_lv": 2,
+		"ingredients": [
+			"25 ml ",
+			"calvados & straight applejacks",
+			"25 ml ",
+			"orange curacao liqueur",
+			"25 ml ",
+			"vermouth - rosso/rouge (sweet) vermouth",
+			"2 drop",
+			"Angostura or other aromatic bitters",
+			"50 ml ",
+			"ginger ale",
+			"50 ml ",
+			"cola (e.g. coca cola & pepsi cola)"
+		],
+		"recipe": "POUR all ingredients into glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"데이트",
+				"친구와",
+				"파티",
+				"기념일",
+				"오늘밤 주인공은 나",
+				"크리스마스",
+				"여름휴가",
+				"To Go"
+			]
+		}
+	},
+	{
+		"name": "Clover Club (House-Made)",
+		"name_kor": "클로버 클럽",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af3002e12403.jpg",
+		"base": "Gin",
+		"garnish": "Lemon zest twist",
+		"flavor": 8,
+		"abv": 18.83,
+		"abv_lv": 2,
+		"ingredients": [
+			"45 ml ",
+			"gin",
+			"1 1/2 spoon",
+			"Raspberry jam",
+			"15 ml ",
+			"vermouth - dry",
+			"22.5 ml ",
+			"lemon juice (freshly squeezed)",
+			"10 ml ",
+			"pasteurised egg white"
+		],
+		"recipe": "SHAKE all ingredients with ice and strain back into shaker",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"소개팅",
+				"데이트",
+				"친구와",
+				"파티",
+				"기념일",
+				"오늘밤 주인공은 나",
+				"크리스마스",
+				"여름휴가",
+				"To Go"
+			]
+		}
+	},
+	{
+		"name": "Curtain Call",
+		"name_kor": "커튼 콜",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af300fc70b23.jpg",
+		"base": "Rum",
+		"garnish": "Black olive ",
+		"flavor": 7,
+		"abv": 14.8,
+		"abv_lv": 2,
+		"ingredients": [
+			"3 fresh",
+			"Basil leaves",
+			"40 ml ",
+			"rum - white (charcoal-filtered) 1-3 year old light",
+			"20 ml ",
+			"lemon juice (freshly squeezed)",
+			"15 ml ",
+			"sugar syrup (rich) 2 sugar to 1 water",
+			"10 ml ",
+			"campari or other red bitter liqueur",
+			"30 ml ",
+			"champagne brut"
+		],
+		"recipe": "MUDDLE basil in base of shaker",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"소개팅",
+				"데이트",
+				"친구와",
+				"파티",
+				"기념일",
+				"오늘밤 주인공은 나",
+				"크리스마스",
+				"여름휴가",
+				"To Go"
+			]
+		}
+	},
+	{
+		"name": "Daiquiri",
+		"name_kor": "다이커리",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af3010ae8f19.jpg",
+		"base": "Rum",
+		"garnish": "Lime zest twist (discarded) & lime wedge on rim",
+		"flavor": 6,
+		"abv": 17.8,
+		"abv_lv": 2,
+		"ingredients": [
+			"50 ml ",
+			"rum - white (charcoal-filtered) 1-3 year old light",
+			"15 ml ",
+			"lime juice (freshly squeezed)",
+			"10 ml ",
+			"sugar syrup (rich) 2 sugar to 1 water",
+			"4 drop",
+			"Daiquiri bitters (optional)",
+			"10 ml ",
+			"chilled water (omit if using wet ice)"
+		],
+		"recipe": "Cut zest from your lime for garnish prior to squeezing for juice",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"데이트",
+				"친구와",
+				"파티",
+				"기념일",
+				"오늘밤 주인공은 나",
+				"여름휴가",
+				"To Go"
+			]
+		}
+	},
+	{
+		"name": "Daiquiri No.1 (6:2:1 recipe)",
+		"name_kor": "다이커리 넘버 1",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2020/04/5e8442a7f16cd.jpg",
+		"base": "Rum",
+		"garnish": "Lime wedge on rim",
+		"flavor": 8,
+		"abv": 21.51,
+		"abv_lv": 3,
+		"ingredients": [
+			"60 ml ",
+			"rum - white/gold 1-3 year old mellow light",
+			"20 ml ",
+			"lime juice (freshly squeezed)",
+			"10 ml ",
+			"sugar syrup (rich) 2 sugar to 1 water"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"데이트",
+				"친구와",
+				"파티",
+				"기념일",
+				"오늘밤 주인공은 나",
+				"여름휴가",
+				"To Go"
+			]
+		}
+	},
+	{
+		"name": "Damn It Jimmy",
+		"name_kor": "댐 잇 지미",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af3012290204.jpg",
+		"base": "Etc.",
+		"garnish": "Blue cheese stuffed olive",
+		"flavor": 4,
+		"abv": 20.28,
+		"abv_lv": 3,
+		"ingredients": [
+			"45 ml ",
+			"sake",
+			"45 ml ",
+			"rum - white (charcoal-filtered) 1-3 year old light",
+			"7.5 ml ",
+			"sherry - fino",
+			"7.5 ml ",
+			"vermouth - dry",
+			"5 ml ",
+			"sugar syrup (rich) 2 sugar to 1 water"
+		],
+		"recipe": "STIR all ingredients with ice and fine strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"나쁨"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"친구와",
+				"비오는 날",
+				"이별"
+			]
+		}
+	},
+	{
+		"name": "Difford's Fruit Cup No.1 (gin based & Pimm's Cup-like)",
+		"name_kor": "디포드 프룻 컵 넘버 1",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af30191945f3.jpg",
+		"base": "Gin",
+		"garnish": "Lemon, orange & strawberry slices, mint sprig & borage in drink",
+		"flavor": 6,
+		"abv": 12.83,
+		"abv_lv": 2,
+		"ingredients": [
+			"25 ml ",
+			"gin",
+			"25 ml ",
+			"orange curacao liqueur",
+			"25 ml ",
+			"vermouth - rosso/rouge (sweet) vermouth",
+			"2 drop",
+			"Angostura or other aromatic bitters",
+			"50 ml ",
+			"ginger ale",
+			"50 ml ",
+			"cola (e.g. coca cola & pepsi cola)"
+		],
+		"recipe": "POUR all ingredients into glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"데이트",
+				"친구와",
+				"파티",
+				"기념일",
+				"오늘밤 주인공은 나",
+				"여름휴가",
+				"To Go"
+			]
+		}
+	},
+	{
+		"name": "Dry Martini 'Preferred Stirred' (5:1 ratio)",
+		"name_kor": "드라이 마티니 (5:1)",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/5/57/2018779ba37b0628a7e6ff2cf8a4ab4b80d4.jpg",
+		"base": "Gin",
+		"garnish": "Chilled skewered olive or lemon zest twist (or served Dicken's-style without a garnish)",
+		"flavor": 9,
+		"abv": 32.45,
+		"abv_lv": 4,
+		"ingredients": [
+			"62.5 ml ",
+			"gin",
+			"12.5 ml ",
+			"vermouth - dry",
+			"1 drop",
+			"Orange bitters (optional)"
+		],
+		"recipe": "STIR all ingredients with ice and strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음",
+				"나쁨"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"친구와",
+				"비오는 날",
+				"이별"
+			]
+		}
+	},
+	{
+		"name": "Dry Martini (15:1 ratio) Montgomery's",
+		"name_kor": "드라이 마티니 (15:1)",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af3023b48af0.jpg",
+		"base": "Gin",
+		"garnish": "Orange zest twist",
+		"flavor": 9,
+		"abv": 33.22,
+		"abv_lv": 4,
+		"ingredients": [
+			"75 ml ",
+			"gin",
+			"5 ml ",
+			"vermouth - dry",
+			"1 drop",
+			"Orange bitters (optional)"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음",
+				"나쁨"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"친구와",
+				"비오는 날",
+				"이별"
+			]
+		}
+	},
+	{
+		"name": "Ferrobaldi Cocktail",
+		"name_kor": "페로발디 칵테일",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af3038179015.jpg",
+		"base": "Etc.",
+		"garnish": "Orange wedge rested across rim",
+		"flavor": 5,
+		"abv": 4.85,
+		"abv_lv": 1,
+		"ingredients": [
+			"45 ml ",
+			"ferro china",
+			"120 ml ",
+			"orange juice (freshly squeezed)"
+		],
+		"recipe": "Squeeze orange juice using pillar or elbow press and fine strain to remove any flesh",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"데이트",
+				"친구와",
+				"파티",
+				"기념일",
+				"오늘밤 주인공은 나",
+				"크리스마스",
+				"여름휴가",
+				"To Go",
+				"브런치"
+			]
+		}
+	},
+	{
+		"name": "High Ryeser",
+		"name_kor": "하이 라이서",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2020/11/5fb540dcd7918.jpg",
+		"base": "Whisky",
+		"garnish": "Orange zest twist (discarded) & Luxardo Maraschino cherry",
+		"flavor": 6,
+		"abv": 27.58,
+		"abv_lv": 3,
+		"ingredients": [
+			"45 ml ",
+			"whiskey - rye whiskey (100 proof / 50% alc./vol.)",
+			"45 ml ",
+			"vermouth - rosso/rouge (sweet) vermouth",
+			"1 drop",
+			"Angostura or other aromatic bitters"
+		],
+		"recipe": "STIR all ingredients with ice and strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"데이트",
+				"친구와",
+				"파티",
+				"기념일",
+				"오늘밤 주인공은 나",
+				"크리스마스"
+			]
+		}
+	},
+	{
+		"name": "Iron Negroni",
+		"name_kor": "아이언 네그로니",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2021/09/6144b193b0b4f.jpg",
+		"base": "Gin",
+		"garnish": "Orange zest twist",
+		"flavor": 7,
+		"abv": 22.32,
+		"abv_lv": 3,
+		"ingredients": [
+			"30 ml ",
+			"gin",
+			"30 ml ",
+			"ferro china",
+			"30 ml ",
+			"vermouth - rosso/rouge (sweet) vermouth"
+		],
+		"recipe": "STIR all ingredients with ice and strain into ice-filled glass",
+		"tag": {
+			"기분별": [
+				"좋음",
+				"나쁨"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"친구와",
+				"크리스마스",
+				"비오는 날",
+				"이별"
+			]
+		}
+	},
+	{
+		"name": "Left Bank Martini",
+		"name_kor": "레프트 뱅크 마티니",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2019/04/5cc823f2bc23a.jpg",
+		"base": "Gin",
+		"garnish": "Lime zest twist",
+		"flavor": 6,
+		"abv": 26.24,
+		"abv_lv": 3,
+		"ingredients": [
+			"60 ml ",
+			"gin",
+			"15 ml ",
+			"elderflower liqueur",
+			"15 ml ",
+			"chardonnay (chablis) white wine",
+			"7.5 ml ",
+			"vermouth - dry"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"데이트",
+				"친구와"
+			]
+		}
+	},
+	{
+		"name": "Madurised Old Fashioned Godfather",
+		"name_kor": "마두라이즈드 올드 패션 갓파더",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af30a615c756.jpg",
+		"base": "Whisky",
+		"garnish": "Toasted almonds",
+		"flavor": 6,
+		"abv": 0.0,
+		"abv_lv": 1,
+		"ingredients": [
+			"15 ml ",
+			"whiskey - bourbon whiskey",
+			"15 ml ",
+			"whiskey - rye whiskey (100 proof / 50% alc./vol.)",
+			"15 ml ",
+			"whisky - scotch whisky (blended)",
+			"15 ml ",
+			"amaretto liqueur",
+			"15 ml ",
+			"madeira - rainwater/verdelho (med dry)"
+		],
+		"recipe": "STIR all ingredients with ice and strain into ice-filled glass",
+		"tag": {
+			"기분별": [
+				"좋음",
+				"나쁨"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"데이트",
+				"친구와",
+				"비오는 날"
+			]
+		}
+	},
+	{
+		"name": "Margarita on-the-rocks (Difford's recipe)",
+		"name_kor": "마가리타 온더락",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/5/14/20180fca3a69197e3c9fd9519df0ed7859ea.jpg",
+		"base": "Tequila",
+		"garnish": "Salt rim (optional) & lime wedge",
+		"flavor": 7,
+		"abv": 22.91,
+		"abv_lv": 3,
+		"ingredients": [
+			"45 ml ",
+			"tequila reposado",
+			"22.5 ml ",
+			"triple sec (e.g. cointreau)",
+			"22.5 ml ",
+			"lime juice (freshly squeezed)",
+			"5 ml ",
+			"agave syrup",
+			"2 drop",
+			"Saline solution (optional)",
+			"4 drop",
+			"Margarita bitters (optional)"
+		],
+		"recipe": "SHAKE all ingredients with ice and strain into ice-filled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"데이트",
+				"친구와",
+				"파티",
+				"기념일",
+				"오늘밤 주인공은 나",
+				"여름휴가",
+				"To Go"
+			]
+		}
+	},
+	{
+		"name": "Marsala Martini",
+		"name_kor": "마살라 마티니",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af30ae890698.jpg",
+		"base": "Gin",
+		"garnish": "Pickled almond",
+		"flavor": 7,
+		"abv": 30.61,
+		"abv_lv": 4,
+		"ingredients": [
+			"60 ml ",
+			"gin",
+			"10 ml ",
+			"marsala superiore doc secco wine",
+			"10 ml ",
+			"vermouth - dry",
+			"5 ml ",
+			"amaretto liqueur"
+		],
+		"recipe": "STIR all ingredients with ice and strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"데이트",
+				"친구와"
+			]
+		}
+	},
+	{
+		"name": "Martinez",
+		"name_kor": "마르티네스",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/5/25/20188c3b4150a4003215922b4eee84874e6c.jpg",
+		"base": "Etc.",
+		"garnish": "Orange zest twist",
+		"flavor": 6,
+		"abv": 23.95,
+		"abv_lv": 3,
+		"ingredients": [
+			"60 ml ",
+			"genever - oude genever",
+			"30 ml ",
+			"vermouth - rosso/rouge (sweet) vermouth",
+			"7.5 ml ",
+			"vermouth - dry",
+			"7.5 ml ",
+			"orange curacao liqueur",
+			"1 drop",
+			"Angostura or other aromatic bitters"
+		],
+		"recipe": "STIR all ingredients with ice and strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"데이트",
+				"친구와"
+			]
+		}
+	},
+	{
+		"name": "Mezcal Dante",
+		"name_kor": "메즈칼 단테",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2022/04/62500ee41c6d6.jpg",
+		"base": "Etc.",
+		"garnish": "Float basil leaf boat",
+		"flavor": 7,
+		"abv": 23.5,
+		"abv_lv": 3,
+		"ingredients": [
+			"3",
+			"Basil leaves",
+			"30 ml",
+			"Mezcal",
+			"15 ml",
+			"Tequila blanco",
+			"10 ml",
+			"Chartreuse Green",
+			"7.5 ml",
+			"Kummel liqueur",
+			"10 ml",
+			"Agave syrup",
+			"20 ml",
+			"Lime juice (freshly squeezed)"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass.",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"데이트",
+				"소개팅",
+				"발렌타인/화이트데이"
+			]
+		}
+	},
+	{
+		"name": "Mezcal Fruit Cup (Diffords No.8 Cup)",
+		"name_kor": "메즈칼 프룻 컵",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2017/6/30/20177046b0e8b44b7dc93e15393fd452d7d4.jpg",
+		"base": "Etc.",
+		"garnish": "Lemon, orange & strawberry slices, mint sprig & borage",
+		"flavor": 6,
+		"abv": 12.66,
+		"abv_lv": 2,
+		"ingredients": [
+			"25 ml",
+			"Mezcal",
+			"25 ml",
+			"Orange Curaçao liqueur",
+			"25 ml",
+			"Vermouth - Rosso/rouge (sweet) vermouth",
+			"2",
+			"Lavender bitters",
+			"50 ml",
+			"Ginger ale",
+			"50 ml",
+			"Cola (e.g. Coca Cola & Pepsi Cola)"
+		],
+		"recipe": "POUR all ingredients into glass. Half fill glass with ice. Add a citrus slice and a couple of mint leaves from garnish before filling to brim with ice. Finish with rest of garnish.",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"데이트",
+				"친구와"
+			]
+		}
+	},
+	{
+		"name": "Mezcal Margarita",
+		"name_kor": "메즈칼 마가리타",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2016/10/46/2016e0326a523e29f57923f4bcc86bb4ee19.jpg",
+		"base": "Etc.",
+		"garnish": "Lime wedge",
+		"flavor": 9,
+		"abv": 23.68,
+		"abv_lv": 3,
+		"ingredients": [
+			"45 ml",
+			"Mezcal",
+			"22.5 ml",
+			"Triple sec (e.g. Cointreau)",
+			"22.5 ml",
+			"Lime juice (freshly squeezed)",
+			"5 ml",
+			"Agave syrup",
+			"2",
+			"Saline solution",
+			"8",
+			"Margarita bitters (optional)"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into ice-filled glass.",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"소개팅",
+				"친구와"
+			]
+		}
+	},
+	{
+		"name": "Negroni Cocktail",
+		"name_kor": "네그로니 칵테일",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2015/7/25/20153d9edca73fbc76ce9648f3e93498e916.jpg",
+		"base": "Gin",
+		"garnish": "Orange wedge or slice and/or orange zest twist",
+		"flavor": 9,
+		"abv": 23.45,
+		"abv_lv": 3,
+		"ingredients": [
+			"30 ml",
+			"Gin",
+			"30 ml",
+			"Campari or other red bitter liqueur",
+			"30 ml",
+			"Vermouth - Rosso/rouge (sweet) vermouth"
+		],
+		"recipe": "POUR all ingredients into ice-filled glass and STIR.",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"데이트",
+				"소개팅",
+				"친구와"
+			]
+		}
+	},
+	{
+		"name": "New York Minute",
+		"name_kor": "뉴욕 미닛",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2016/7/57/201661287e11cfa08ef881173e257932ac7e.jpg",
+		"base": "Tequila",
+		"garnish": "Lemon and orange zest (discarded) & three coffee beans floating on drink",
+		"flavor": 8,
+		"abv": 26.78,
+		"abv_lv": 3,
+		"ingredients": [
+			"52.5 ml",
+			"Tequila reposado",
+			"20 ml",
+			"Vermouth - sweet aged (Antica Formula)",
+			"15 ml",
+			"Maraschino liqueur",
+			"5 ml",
+			"Sugar syrup (rich)",
+			"2",
+			"sugar",
+			"1",
+			"water",
+			"1",
+			"Whiskey barrel aged bitters"
+		],
+		"recipe": "STIR all ingredients with ice and strain into chilled glass.",
+		"tag": {
+			"기분별": [
+				"좋은"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"친구와",
+				"기념일",
+				"소개팅",
+				"비 오는 날"
+			]
+		}
+	},
+	{
+		"name": "One Sip Martini",
+		"name_kor": "원 십 마티니",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2020/03/5e6a4aa1397ac.jpg",
+		"base": "Vodka",
+		"garnish": "Gorgonzola (or Roquefort) cheese stuffed large olive (well chilled)",
+		"flavor": 8,
+		"abv": 30.07,
+		"abv_lv": 4,
+		"ingredients": [
+			"25 ml",
+			"Vodka",
+			"5 ml",
+			"Vermouth - Martini Ambrato Riserva",
+			"1.25 ml",
+			"Sherry - Fino"
+		],
+		"recipe": "STIR all ingredients with ice and strain into chilled glass.",
+		"tag": {
+			"기분별": [
+				"나쁨"
+			],
+			"인원별": [
+				"1인"
+			],
+			"상황별": [
+				"비오는 날",
+				"이별"
+			]
+		}
+	},
+	{
+		"name": "Penicillin cocktail",
+		"name_kor": "페니실린 칵테일",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2020/09/5f525effb59f5.jpg",
+		"base": "Whisky",
+		"garnish": "Skewered candied ginger",
+		"flavor": 8,
+		"abv": 19.43,
+		"abv_lv": 2,
+		"ingredients": [
+			"45 ml",
+			"Whisky - Scotch whisky (blended)",
+			"15 ml",
+			"Ginger liqueur",
+			"10 ml",
+			"Whisky - Islay single malt Scotch whisky",
+			"20 ml",
+			"Lemon juice (freshly squeezed)",
+			"20 ml",
+			"Honey syrup (3 honey to 1 water)"
+		],
+		"recipe": "SHAKE all ingredients with ice and strain into ice-filled glass (preferably over a chunk of block ice).",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"친구와",
+				"데이트",
+				"기념일",
+				"소개팅"
+			]
+		}
+	},
+	{
+		"name": "Pisco Fruit Cup (Difford's Cup No.9)",
+		"name_kor": "피스코 프룻 컵",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2017/6/30/201737ce1785e1487e0e6a813113c37c3b48.jpg",
+		"base": "Vermouth",
+		"flavor": 6,
+		"abv": 12.53,
+		"abv_lv": 2,
+		"garnish": "Lemon, orange & strawberry slices, mint sprig & borage",
+		"ingredients": [
+			"25 ml",
+			"Pisco",
+			"25 ml",
+			"Orange Curaçao liqueur",
+			"25 ml",
+			"Vermouth - Rosso/rouge (sweet) vermouth",
+			"2",
+			"Amargo Chuncho bitters",
+			"50 ml",
+			"Ginger ale",
+			"50 ml",
+			"Cola (e.g. Coca Cola & Pepsi Cola)"
+		],
+		"recipe": "POUR all ingredients into glass. Half fill glass with ice. Add a citrus slice and a couple of mint leaves from garnish before filling to brim with ice. Finish with rest of garnish.",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"친구와",
+				"오늘밤 주인공은 나"
+			]
+		}
+	},
+	{
+		"name": "Poet's Dream",
+		"name_kor": "포잇스 드림",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2017/1/44/2017830fd3ed5d71bcb4ab71527d422b851c.jpg",
+		"base": "Gin",
+		"garnish": "Lemon zest twist",
+		"flavor": 8,
+		"abv": 23.92,
+		"abv_lv": 3,
+		"ingredients": [
+			"22.5 ml",
+			"Gin",
+			"15 ml",
+			"Bénédictine D.O.M. liqueur",
+			"22.5 ml",
+			"Vermouth - Dry",
+			"7.5 ml",
+			"Chilled water (omit if using wet ice)"
+		],
+		"recipe": "STIR all ingredients with ice and strain into chilled glass.",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"친구와",
+				"데이트"
+			]
+		}
+	},
+	{
+		"name": "Prescription Julep",
+		"name_kor": "프리스크립션 줄렙",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/11/5bf7f47d03793.jpg",
+		"base": "Etc.",
+		"garnish": "Orange zest twist (discarded) & mint sprigs dusted with icing sugar",
+		"flavor": 7,
+		"abv": 29.32,
+		"abv_lv": 3,
+		"ingredients": [
+			"7",
+			"Mint leaves",
+			"45 ml",
+			"Cognac (brandy)",
+			"15 ml",
+			"Whiskey - Rye whiskey (100 proof / 50% alc./vol.)",
+			"10 ml",
+			"Sugar syrup (rich)",
+			"2",
+			"sugar",
+			"1",
+			"water",
+			"2",
+			"Orange bitters"
+		],
+		"recipe": "SHAKE all ingredients with ice and strain into julep cup filled with crushed ice.",
+		"tag": {
+			"기분별": [
+				"좋음",
+				"나쁨"
+			],
+			"인원별": [
+				"1인",
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"데이트",
+				"친구와",
+				"비오는 날"
+			]
+		}
+	},
+	{
+		"name": "Red Snapper",
+		"name_kor": "레드 스내퍼",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2017/1/20/2017ae2ae91f3170e129cd15223077ef98c0.jpg",
+		"base": "Gin",
+		"garnish": "Salt & pepper rim",
+		"flavor": 5,
+		"abv": 10.2,
+		"abv_lv": 2,
+		"ingredients": [
+			"60 ml",
+			"Gin",
+			"120 ml",
+			"Tomato juice",
+			"15 ml",
+			"Lemon juice (freshly squeezed)",
+			"7.5 ml",
+			"Sugar syrup (rich)",
+			"2",
+			"sugar",
+			"1",
+			"water",
+			"4",
+			"Worcestershire sauce",
+			"7",
+			"Hot pepper sauce (red)",
+			"2",
+			"Black pepper",
+			"2",
+			"Celery salt"
+		],
+		"recipe": "SHAKE all ingredients with ice and strain into ice-filled glass. Serve with straws.",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"3인 이상"
+			],
+			"상황별": [
+				"오늘밤 주인공은 나",
+				"데이트",
+				"친구와"
+			]
+		}
+	},
+	{
+		"name": "Rum Fruit Cup (Difford's Cup No.4)",
+		"name_kor": "럼 프룻 컵 (디포드스 컵 넘버 4)",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2017/6/28/2017e4e8f6f7f8c44de68ecf61d0d7990113.jpg",
+		"garnish": "Lemon, orange & strawberry slices, mint sprig & borage",
+		"base": "Rum",
+		"flavor": 6,
+		"abv": 12.44,
+		"abv_lv": 2,
+		"ingredients": [
+			"25 ml",
+			"Rum - White/gold 1-3 year old mellow light",
+			"25 ml",
+			"Orange Curaçao liqueur",
+			"25 ml",
+			"Vermouth - Rosso/rouge (sweet) vermouth",
+			"2",
+			"Angostura or other aromatic bitters",
+			"50 ml",
+			"Ginger ale",
+			"50 ml",
+			"Cola (e.g. Coca Cola & Pepsi Cola)"
+		],
+		"recipe": "POUR all ingredients into glass. Half fill glass with ice. Add a citrus slice and a couple of mint leaves from garnish before filling to brim with ice. Finish with rest of garnish.",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"3인 이상"
+			],
+			"상황별": [
+				"오늘밤 주인공은 나",
+				"데이트",
+				"친구와"
+			]
+		}
+	},
+	{
+		"name": "Rye Whiskey Fruit Cup (Difford's Cup No.5)",
+		"name_kor": "라이 위스키 프룻 컵(디포드스 컵 넘버 5)",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2017/6/29/20175936a197e0f84c3bb70ab576b18d0732.jpg",
+		"base": "Whisky",
+		"garnish": "Lemon, orange & strawberry slices, mint sprig & borage",
+		"flavor": 6,
+		"abv": 13.73,
+		"abv_lv": 2,
+		"ingredients": [
+			"25 ml",
+			"Whiskey - Rye whiskey (100 proof / 50% alc./vol.)",
+			"25 ml",
+			"Orange Curaçao liqueur",
+			"25 ml",
+			"Vermouth - Rosso/rouge (sweet) vermouth",
+			"2",
+			"Angostura or other aromatic bitters",
+			"50 ml",
+			"Ginger ale",
+			"50 ml",
+			"Cola (e.g. Coca Cola & Pepsi Cola)"
+		],
+		"recipe": "POUR all ingredients into glass. Half fill glass with ice. Add a citrus slice and a couple of mint leaves from garnish before filling to brim with ice. Finish with rest of garnish.",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"3인 이상"
+			],
+			"상황별": [
+				"오늘밤 주인공은 나",
+				"데이트",
+				"친구와"
+			]
+		}
+	},
+	{
+		"name": "Sabot",
+		"name_kor": "사봇",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2021/03/6053947586ece.jpg",
+		"base": "Gin",
+		"garnish": "Lemon zest twist",
+		"flavor": 8,
+		"abv": 18.21,
+		"abv_lv": 2,
+		"ingredients": [
+			"45 ml",
+			"Gin",
+			"22.5 ml",
+			"Triple sec (e.g. Cointreau)",
+			"22.5 ml",
+			"Lemon juice (freshly squeezed)",
+			"10 ml",
+			"Sugar syrup (rich)",
+			"2",
+			"sugar",
+			"1",
+			"water",
+			"15 ml",
+			"Pasteurised egg white",
+			"22.5 ml",
+			"Champagne Brut"
+		],
+		"recipe": "SHAKE first 5 ingredients with ice and strain back into shaker. DRY SHAKE (without ice) and fine strain into chilled glass. TOP with champagne.",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"소개팅",
+				"데이트",
+				"친구와"
+			]
+		}
+	},
+	{
+		"name": "Santa Marta Daiquiri",
+		"name_kor": "산타 마르타 데이쿼리",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2016/4/34/2016933cffca59b3d6449cb3090f4a1e8bed.jpg",
+		"base": "Rum",
+		"garnish": "Lime wedge on rim",
+		"flavor": 8,
+		"abv": 18.76,
+		"abv_lv": 2,
+		"ingredients": [
+			"70 ml",
+			"Rum - White (charcoal-filtered) 1-3 year old light",
+			"22.5 ml",
+			"Lime juice (freshly squeezed)",
+			"15 ml",
+			"Sugar syrup (rich)",
+			"2",
+			"sugar",
+			"1",
+			"water",
+			"10 ml",
+			"Chilled water",
+			"5 ml",
+			"Kirschwasser (cherry) eau-de-vie"
+		],
+		"recipe": "SHAKE first three ingredients with ice and fine strain into chilled glass. FLOAT spoon of kirsch eau de vie on surface of drink.",
+		"tag": {
+			"기분별": [
+				"좋음",
+				"나쁨"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"비 오는 날",
+				"데이트",
+				"친구와",
+				"소개팅"
+			]
+		}
+	},
+	{
+		"name": "Scotch Whisky Fruit Cup (Difford's Cup No.2)",
+		"name_kor": "스콧치 위스키 프룻 컵(디포드스 컵 넘버 2)",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2017/6/27/2017afa85cb5ae248a3ba3cb52dbeaa6e96a.jpg",
+		"base": "Whisky",
+		"garnish": "Lemon, orange & strawberry slices, mint sprig & borage",
+		"flavor": 6,
+		"abv": 12.44,
+		"abv_lv": 2,
+		"ingredients": [
+			"25 ml",
+			"Whisky - Scotch whisky (blended)",
+			"25 ml",
+			"Orange Curaçao liqueur",
+			"25 ml",
+			"Vermouth - Rosso/rouge (sweet) vermouth",
+			"2",
+			"Angostura or other aromatic bitters",
+			"50 ml",
+			"Ginger ale",
+			"50 ml",
+			"Cola (e.g. Coca Cola & Pepsi Cola)"
+		],
+		"recipe": "POUR all ingredients into glass. Half fill glass with ice. Add a citrus slice and a couple of mint leaves from garnish before filling to brim with ice. Finish with rest of garnish.",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"3인 이상"
+			],
+			"상황별": [
+				"오늘밤 주인공은 나",
+				"데이트",
+				"친구와"
+			]
+		}
+	},
+	{
+		"name": "South Side Rickey",
+		"name_kor": "사우스 사이드 리키",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2015/7/53/20151299b9bc6b215cc8fc23c76e47f1581f.jpg",
+		"base": "Gin",
+		"garnish": "Lime and mint sprigs",
+		"flavor": 7,
+		"abv": 13.64,
+		"abv_lv": 2,
+		"ingredients": [
+			"60 ml",
+			"Gin",
+			"30 ml",
+			"Lime juice (freshly squeezed)",
+			"22.5 ml",
+			"Sugar syrup (rich)",
+			"2",
+			"sugar",
+			"1",
+			"water",
+			"5",
+			"Mint leaves",
+			"40 ml",
+			"Soda (club soda)"
+		],
+		"recipe": "SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with soda.",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"3인 이상"
+			],
+			"상황별": [
+				"오늘밤 주인공은 나",
+				"데이트",
+				"친구와"
+			]
+		}
+	},
+	{
+		"name": "Tequila Martini",
+		"name_kor": "테킬라 마티니",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2021/10/61718599d9b62.jpg",
+		"base": "Tequila",
+		"garnish": "Coin-sized lime zest twist cut thick with some flesh on the back so that when the zest is expressed over the cocktail a few drips of juice also drop into the cocktail.",
+		"flavor": 9,
+		"abv": 26.84,
+		"abv_lv": 3,
+		"ingredients": [
+			"60 ml",
+			"Tequila blanco",
+			"30 ml",
+			"Vermouth - Bianco",
+			"4",
+			"Margarita bitters"
+		],
+		"recipe": "STIR all ingredients with ice and strain into ice-filled glass.",
+		"tag": {
+			"기분별": [
+				"좋음",
+				"나쁨"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"비오는 날",
+				"데이트",
+				"소개팅"
+			]
+		}
+	},
+	{
+		"name": "The Dante",
+		"name_kor": "더 단테",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2019/10/5d97252c8d293.jpg",
+		"base": "Tequila",
+		"garnish": "Float basil leaf boat",
+		"flavor": 6,
+		"abv": 22.67,
+		"abv_lv": 3,
+		"ingredients": [
+			"40 ml",
+			"Tequila blanco",
+			"10 ml",
+			"Chartreuse Green",
+			"10 ml",
+			"Kummel liqueur",
+			"10 ml",
+			"Sugar syrup (rich)",
+			"2",
+			"sugar",
+			"1",
+			"water",
+			"20 ml",
+			"Lime juice (freshly squeezed)"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass.",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"데이트",
+				"소개팅",
+				"비오는 날"
+			]
+		}
+	},
+	{
+		"name": "The Last Word cocktail",
+		"name_kor": "더 라스트 워드 칵테일",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2019/10/5da6d37eeb0f9.jpg",
+		"base": "Gin",
+		"garnish": "Lime twist (discarded) and Luxardo Maraschino cherry",
+		"flavor": 9,
+		"abv": 24.44,
+		"abv_lv": 3,
+		"ingredients": [
+			"30 ml",
+			"Gin",
+			"20 ml",
+			"Chartreuse Green",
+			"20 ml",
+			"Maraschino liqueur",
+			"20 ml",
+			"Lime juice (freshly squeezed)",
+			"10 ml",
+			"Chilled water (omit if using wet ice)"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass.",
+		"tag": {
+			"기분별": [
+				"좋음",
+				"나쁨"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"비오는 날",
+				"데이트",
+				"소개팅"
+			]
+		}
+	},
+	{
+		"name": "Triple Daiquiri",
+		"name_kor": "트리플 다이키리",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2019/09/5d7251b81b293.jpg",
+		"base": "Rum",
+		"garnish": "Lime wedge",
+		"flavor": 6,
+		"abv": 24.82,
+		"abv_lv": 3,
+		"ingredients": [
+			"30 ml",
+			"Rum - White/gold 1-3 year old mellow light",
+			"15 ml",
+			"Rum - 3-5yr old Caribbean blended rum",
+			"5 ml",
+			"Cachaça",
+			"15 ml",
+			"Lime juice (freshly squeezed)",
+			"2 spoon",
+			"Powdered sugar (ground in mortar and pestle)",
+			"4 drop",
+			"Daiquiri bitters"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"여름휴가",
+				"비오는 날"
+			]
+		}
+	},
+	{
+		"name": "20th Century Cocktail",
+		"name_kor": "20세기",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af2faad404a6.jpg",
+		"base": "Gin",
+		"garnish": "Orange zest twist",
+		"flavor": 6,
+		"abv": 19.29,
+		"abv_lv": 2,
+		"ingredients": [
+			"50 ml",
+			"Gin",
+			"30 ml",
+			"Crème de cacao liqueur (white)",
+			"30 ml",
+			"Americano Bianco",
+			"10 ml",
+			"Lemon juice (freshly squeezed)"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"데이트",
+				"소개팅",
+				"발렌타인/화이트데이",
+				"오늘밤 주인공은 나"
+			]
+		}
+	},
+	{
+		"name": "21st Century",
+		"name_kor": "21세기",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2020/07/5f05916ba0a6d.jpg",
+		"base": "Tequila",
+		"garnish": "Orange zest twist",
+		"flavor": 7,
+		"abv": 18.28,
+		"abv_lv": 2,
+		"ingredients": [
+			"50 ml",
+			"Tequila reposado",
+			"30 ml",
+			"Crème de cacao liqueur (white)",
+			"30 ml",
+			"Americano Bianco",
+			"10 ml",
+			"Lemon juice (freshly squeezed)"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"데이트",
+				"소개팅",
+				"발렌타인/화이트데이",
+				"오늘밤 주인공은 나"
+			]
+		}
+	},
+	{
+		"name": "Addington",
+		"name_kor": "애딩턴",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2017/4/17/20172897cbfaf7b5034661e22fcf65fca403.jpg",
+		"base": "Vermouth",
+		"garnish": "Orange zest twist",
+		"flavor": 6,
+		"abv": 8.47,
+		"abv_lv": 1,
+		"ingredients": [
+			"30 ml",
+			"Vermouth - Dry",
+			"30 ml",
+			"Vermouth - Rosso/rouge (sweet) vermouth",
+			"30 ml",
+			"Soda (club soda) (chilled)"
+		],
+		"recipe": "STIR first 2 ingredients with ice and strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"To Go",
+				"데이트",
+				"여름휴가",
+				"오늘밤 주인공은 나"
+			]
+		}
+	},
+	{
+		"name": "Affinity",
+		"name_kor": "어피니티",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af2faf2354d3.jpg",
+		"base": "Whisky",
+		"garnish": "Lemon zest twist",
+		"flavor": 6,
+		"abv": 20.4,
+		"abv_lv": 3,
+		"ingredients": [
+			"30 ml",
+			"Whisky - Scotch whisky (blended)",
+			"30 ml",
+			"Amaro - Vermouth amaro (e.g. Cardamaro)",
+			"30 ml",
+			"Vermouth - Dry",
+			"1 dash",
+			"Angostura or other aromatic bitters"
+		],
+		"recipe": "STIR all ingredients with ice and strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"오늘밤 주인공은 나",
+				"소개팅"
+			]
+		}
+	},
+	{
+		"name": "Aged Grappa Espresso Martini",
+		"name_kor": "숙성 그라파 에스프레소 마티니",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2021/10/616948ea71392.jpg",
+		"base": "Etc.",
+		"garnish": "Float 3 coffee beans",
+		"flavor": 7,
+		"abv": 20.62,
+		"abv_lv": 3,
+		"ingredients": [
+			"45 ml",
+			"Grappa - aged",
+			"22.5 ml",
+			"Espresso coffee (freshly made & hot)",
+			"22.5 ml",
+			"Coffee liqueur",
+			"5 ml",
+			"Muscovado sugar syrup (2 sugar to 1 water)",
+			"2 drop",
+			"Saline solution"
+		],
+		"recipe": "SHAKE all ingredients with ice and strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"친구와",
+				"비오는 날"
+			]
+		}
+	},
+	{
+		"name": "Aged Honey Daiquiri",
+		"name_kor": "숙성 허니 다이키리",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af2fafe0be02.jpg",
+		"base": "Rum",
+		"garnish": "Lime wedge on rim",
+		"flavor": 6,
+		"abv": 19.35,
+		"abv_lv": 2,
+		"ingredients": [
+			"60 ml",
+			"Rum - 6-10yr old Caribbean blended rum",
+			"15 ml",
+			"Lime juice (freshly squeezed)",
+			"15 ml",
+			"Honey syrup (3 honey to 1 water)",
+			"10 ml",
+			"Chilled water (omit if using wet ice)"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"2인"
+			],
+			"상황별": [
+				"데이트",
+				"크리스마스",
+				"발렌타인/화이트데이"
+			]
+		}
+	},
+	{
+		"name": "Aged Rum Fruit Cup (Difford's Cup No.14)",
+		"name_kor": "숙성 럼 프루트 컵 (Difford's Cup No.14)",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af301a14b18f.jpg",
+		"base": "Rum",
+		"garnish": "Lemon, orange & strawberry slices, mint sprig & borage",
+		"flavor": 6,
+		"abv": 12.44,
+		"abv_lv": 2,
+		"ingredients": [
+			"25 ml",
+			"Rum - 6-10yr old Caribbean blended rum",
+			"25 ml",
+			"Orange Curaçao liqueur",
+			"25 ml",
+			"Vermouth - Rosso/rouge (sweet) vermouth",
+			"2 dash",
+			"Angostura or other aromatic bitters",
+			"50 ml",
+			"Ginger ale",
+			"50 ml",
+			"Cola (e.g. Coca Cola & Pepsi Cola)"
+		],
+		"recipe": "POUR all ingredients into glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"친구와",
+				"오늘밤 주인공은 나",
+				"여름휴가"
+			]
+		}
+	},
+	{
+		"name": "Air Mail",
+		"name_kor": "에어 메일",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2020/02/5e3d5c1c8e350.jpg",
+		"base": "Rum",
+		"garnish": "Tip of a mint sprig or serve naked",
+		"flavor": 7,
+		"abv": 13.36,
+		"abv_lv": 2,
+		"ingredients": [
+			"30 ml",
+			"Rum - White/gold 1-3 year old mellow light",
+			"15 ml",
+			"Lime juice (freshly squeezed)",
+			"15 ml",
+			"Honey syrup (3 honey to 1 water)",
+			"45 ml",
+			"Champagne Brut"
+		],
+		"recipe": "SHAKE first 3 ingredients with ice and strain into an ice-filled glass (preferably a column of ice)",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"소개팅",
+				"오늘밤 주인공은 나",
+				"크리스마스"
+			]
+		}
+	},
+	{
+		"name": "Alpine Negroni",
+		"name_kor": "알파인 네그로니",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2020/07/5f102a88a4af5.jpg",
+		"base": "Gin",
+		"garnish": "Rosemary sprig",
+		"flavor": 8,
+		"abv": 21.25,
+		"abv_lv": 3,
+		"ingredients": [
+			"30 ml",
+			"Gin",
+			"22.5 ml",
+			"Gentian liqueur (e.g. Suze, Salers etc)",
+			"22.5 ml",
+			"Americano Bianco",
+			"15 ml",
+			"Génépi liqueur",
+			"5 ml",
+			"Crème de menthe (white)",
+			"3 dash",
+			"Lemon bitters",
+			"1 dash",
+			"Saline solution"
+		],
+		"recipe": "STIR all ingredients with ice and strain into ice-filled glass (preferably over a chunk of block ice)",
+		"tag": {
+			"기분별": [
+				"나쁨"
+			],
+			"인원별": [
+				"1인"
+			],
+			"상황별": [
+				"이별",
+				"비오는 날"
+			]
+		}
+	},
+	{
+		"name": "Amatitan Twist",
+		"name_kor": "아마티탄 트위스트",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af2fb57938c9.jpg",
+		"base": "Tequila",
+		"garnish": "Grapefruit zest twist",
+		"flavor": "Undefined",
+		"abv": 33.16,
+		"abv_lv": 4,
+		"ingredients": [
+			"60 ml",
+			"Tequila anejo",
+			"7.5 ml",
+			"Maraschino liqueur",
+			"7.5 ml",
+			"Chartreuse Yellow",
+			"2 dash",
+			"Grapefruit bitters"
+		],
+		"recipe": "STIR all ingredients with ice and strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"소개팅",
+				"친구와",
+				"여름휴가"
+			]
+		}
+	},
+	{
+		"name": "Anejo Manhattan",
+		"name_kor": "아네호 맨하탄",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af2fb7f1d2a3.jpg",
+		"base": "Tequila",
+		"garnish": "Salami wrapped Luxardo Maraschino cherry on a pick",
+		"flavor": 8,
+		"abv": 27.69,
+		"abv_lv": 3,
+		"ingredients": [
+			"60 ml",
+			"Tequila anejo",
+			"25 ml",
+			"Vermouth - Rosso/rouge (sweet) vermouth",
+			"1 dash",
+			"Angostura or other aromatic bitters",
+			"1 dash",
+			"Orange bitters"
+		],
+		"recipe": "STIR all ingredients with ice and strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"친구와",
+				"오늘밤 주인공은 나"
+			]
+		}
+	},
+	{
+		"name": "Añejo Old Fashioned",
+		"name_kor": "아네호 올드 패션드",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af31521163c4.jpg",
+		"base": "Tequila",
+		"garnish": "Lime or orange zest twist",
+		"flavor": 5,
+		"abv": 30.13,
+		"abv_lv": 4,
+		"ingredients": [
+			"60 ml",
+			"Tequila anejo",
+			"7.5 ml",
+			"Agave syrup",
+			"8 drop",
+			"Margarita bitters"
+		],
+		"recipe": "STIR one shot of tequila with three ice cubes (dry to the touch frozen ice, not wet ice) in a glass",
+		"tag": {
+			"기분별": [
+				"나쁨"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"이별",
+				"비오는 날",
+				"To Go"
+			]
+		}
+	},
+	{
+		"name": "Apple Jack (by Sasha Petraske)",
+		"name_kor": "애플잭 (by Sasha Petraske)",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2019/06/5d16099f017b7.jpg",
+		"base": "Brandy",
+		"garnish": "None",
+		"flavor": 6,
+		"abv": 21.99,
+		"abv_lv": 3,
+		"ingredients": [
+			"45 ml",
+			"Applejack brandy bottled-in-bond (50% alc./vol)",
+			"15 ml",
+			"Apple juice",
+			"15 ml",
+			"Lemon juice (freshly squeezed)",
+			"7.5 ml",
+			"Sugar syrup (rich) 2 sugar to 1 water"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인",
+				"3인 이상"
+			],
+			"상황별": [
+				"소개팅",
+				"친구와",
+				"여름휴가",
+				"To Go"
+			]
+		}
+	},
+	{
+		"name": "Arte de Volar",
+		"name_kor": "아르테 드 볼라르",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af2fc006cad7.jpg",
+		"base": "Tequila",
+		"garnish": "Lime zest twist",
+		"flavor": 7,
+		"abv": 19.41,
+		"abv_lv": 2,
+		"ingredients": [
+			"60 ml",
+			"Tequila blanco",
+			"7.5 ml",
+			"Crème de violette liqueur",
+			"7.5 ml",
+			"Lavender sugar syrup",
+			"20 ml",
+			"Lime juice (freshly squeezed)",
+			"2.5 ml",
+			"Sugar syrup (rich) 2 sugar to 1 water",
+			"10 ml",
+			"Chilled water (omit if using wet ice)"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"데이트",
+				"소개팅",
+				"비오는 날",
+				"오늘밤 주인공은 나"
+			]
+		}
+	},
+	{
+		"name": "Atholl Brose",
+		"name_kor": "아톨 브로스",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af2fc08890af.jpg",
+		"base": "Whisky",
+		"garnish": "Dust with grated nutmeg",
+		"flavor": 6,
+		"abv": 17.38,
+		"abv_lv": 2,
+		"ingredients": [
+			"2 spoon",
+			"Honey",
+			"40 ml",
+			"Whisky - Scotch whisky (blended)",
+			"30 ml",
+			"Oat milk / oatmeal water",
+			"5 ml",
+			"Drambuie liqueur",
+			"5 ml",
+			"Amaretto liqueur",
+			"10 ml",
+			"Single cream / half-and-half"
+		],
+		"recipe": "STIR honey with Scotch in base of shaker until honey dissolves",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"친구와",
+				"크리스마스"
+			]
+		}
+	},
+	{
+		"name": "Avion de Papel",
+		"name_kor": "아비온 드 파펠",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2021/10/616026e83d5f5.jpg",
+		"base": "Tequila",
+		"garnish": "Lemon zest twist",
+		"flavor": 8,
+		"abv": 16.73,
+		"abv_lv": 2,
+		"ingredients": [
+			"22.5 ml",
+			"Tequila blanco",
+			"22.5 ml",
+			"Amaro - Meletti",
+			"22.5 ml",
+			"Aperol (orange-red aperitivo)",
+			"22.5 ml",
+			"Lemon juice (freshly squeezed)"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"친구와",
+				"비오는 날",
+				"여름휴가"
+			]
+		}
+	},
+	{
+		"name": "Bacardi Special",
+		"name_kor": "바카디 스페셜",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af2fc3a782bb.jpg",
+		"base": "Rum",
+		"garnish": "Skewered Luxardo Maraschino cherry",
+		"flavor": 4,
+		"abv": 20.39,
+		"abv_lv": 3,
+		"ingredients": [
+			"45 ml",
+			"Rum - White (charcoal-filtered) 1-3 year old light",
+			"22.5 ml",
+			"Gin",
+			"15 ml",
+			"Lime juice (freshly squeezed)",
+			"7.5 ml",
+			"Grenadine/pomegranate syrup",
+			"5 ml",
+			"Sugar syrup (rich) 2 sugar to 1 water",
+			"10 ml",
+			"Chilled water (omit if using wet ice)"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"데이트",
+				"소개팅",
+				"오늘밤 주인공은 나",
+				"발렌타인/화이트데이"
+			]
+		}
+	},
+	{
+		"name": "Bamboo Cocktail (Difford's 'Perfect' recipe)",
+		"name_kor": "뱀부 (Difford's 'Perfect' recipe)",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af2fc5652e22.jpg",
+		"base": "Sherry",
+		"garnish": "Orange zest twist",
+		"flavor": 6,
+		"abv": 12.75,
+		"abv_lv": 2,
+		"ingredients": [
+			"45 ml",
+			"Sherry - Fino",
+			"30 ml",
+			"Vermouth - Rosso/rouge (sweet) vermouth",
+			"22.5 ml",
+			"Vermouth - Dry",
+			"1 dash",
+			"Orange bitters"
+		],
+		"recipe": "STIR all ingredients with ice and strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"데이트",
+				"소개팅",
+				"비오는 날",
+				"To Go"
+			]
+		}
+	},
+	{
+		"name": "Bamboo Cocktail (Joaquín Simó's recipe)",
+		"name_kor": "뱀부 (Joaquín Simó's recipe)",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af2fc59a0a99.jpg",
+		"base": "Sherry",
+		"garnish": "Lemon zest twist",
+		"flavor": "Undefined",
+		"abv": 12.29,
+		"abv_lv": 2,
+		"ingredients": [
+			"45 ml",
+			"Sherry - Fino",
+			"45 ml",
+			"Vermouth - Dry",
+			"5 ml",
+			"Sugar syrup (rich) 2 sugar to 1 water",
+			"2 dash",
+			"Angostura or other aromatic bitters",
+			"2 dash",
+			"Orange bitters"
+		],
+		"recipe": "STIR all ingredients with ice and strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"데이트",
+				"비오는 날",
+				"오늘밤 주인공은 나"
+			]
+		}
+	},
+	{
+		"name": "Banana Calling",
+		"name_kor": "바나나 콜링",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/8/52/20184f9854bf1351dff15517e55816923644.jpg",
+		"base": "Gin",
+		"garnish": "None (but perhaps serve with banana chips)",
+		"flavor": 7,
+		"abv": 19.6,
+		"abv_lv": 2,
+		"ingredients": [
+			"50 ml",
+			"Gin",
+			"12.5 ml",
+			"Crème de banane liqueur",
+			"10 ml",
+			"Sherry - Fino",
+			"25 ml",
+			"Lemon juice (freshly squeezed)",
+			"10 ml",
+			"Sugar syrup (rich) 2 sugar to 1 water"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"오늘밤 주인공은 나",
+				"To Go"
+			]
+		}
+	},
+	{
+		"name": "Bananarama",
+		"name_kor": "바나나라마",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2022/02/61fbc9415ee59.jpg",
+		"base": "Etc.",
+		"garnish": "Float banana chip",
+		"flavor": 6,
+		"abv": 25.36,
+		"abv_lv": 3,
+		"ingredients": [
+			"3",
+			"Banana (overripe)",
+			"30 ml",
+			"Cachaça",
+			"20 ml",
+			"Rum - 3-5yr old Caribbean blended rum",
+			"15 ml",
+			"Crème de banane liqueur",
+			"5 ml",
+			"Corn/maize liqueur",
+			"10 ml",
+			"Sherry - Fino",
+			"5 ml",
+			"Lime juice (freshly squeezed)",
+			"2",
+			"Saline solution"
+		],
+		"recipe": "MUDDLE banana with cachaça and rum in base of shaker",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"데이트",
+				"소개팅"
+			]
+		}
+	},
+	{
+		"name": "Barbary Coast",
+		"name_kor": "북아프리카 바닷가",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2019/09/5d8238b792159.jpg",
+		"base": "Whisky",
+		"garnish": "Dust with freshly grated nutmeg",
+		"flavor": 5,
+		"abv": 21.37,
+		"abv_lv": 3,
+		"ingredients": [
+			"30 ml",
+			"Whisky - Scotch whisky (blended)",
+			"15 ml",
+			"Gin",
+			"22.5 ml",
+			"Crème de cacao liqueur (white)",
+			"22.5 ml",
+			"Single cream / half-and-half"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"나쁨"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"이별",
+				"친구와"
+			]
+		}
+	},
+	{
+		"name": "Barney Barnato Cocktail",
+		"name_kor": "바니 바나토 칵테일",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2020/12/5fe1f94dad918.jpg",
+		"base": "Brandy",
+		"garnish": "Lemon zest twist",
+		"flavor": 7,
+		"abv": 24.77,
+		"abv_lv": 3,
+		"ingredients": [
+			"45 ml",
+			"Cognac (brandy)",
+			"22.5 ml",
+			"Kina aromatised wine",
+			"22.5 ml",
+			"Lillet Blanc (or other aromatized wine)",
+			"2.5 ml",
+			"Orange Curaçao liqueur",
+			"1",
+			"Angostura or other aromatic bitters"
+		],
+		"recipe": "STIR all ingredients with ice and strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"나쁨"
+			],
+			"인원별": [
+				"1인"
+			],
+			"상황별": [
+				"이별",
+				"비오는 날"
+			]
+		}
+	},
+	{
+		"name": "Bastille",
+		"name_kor": "바스티유 감옥",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2020/12/5fe47e79122ba.jpg",
+		"base": "Brandy",
+		"garnish": "Walnut on rim or resting on ice",
+		"flavor": 5,
+		"abv": 28.93,
+		"abv_lv": 3,
+		"ingredients": [
+			"45 ml",
+			"Armagnac brandy",
+			"22.5 ml",
+			"Lillet Blanc (or other aromatized wine)",
+			"22.5 ml",
+			"Bénédictine D.O.M. liqueur",
+			"2",
+			"Black walnut bitters"
+		],
+		"recipe": "STIR all ingredients with ice and strain into ice-filled glass (preferably over a chunk of block ice)",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"오늘밤 주인공은 나",
+				"친구와"
+			]
+		}
+	},
+	{
+		"name": "Beer on-the-rocks",
+		"name_kor": "온더락 맥주",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af2fe9bd5f7b.jpg",
+		"base": "Etc.",
+		"garnish": "Orange zest twist",
+		"flavor": "Undefined",
+		"abv": 10.17,
+		"abv_lv": 2,
+		"ingredients": [
+			"60 ml",
+			"Byrrh aperitif aromatised wine",
+			"60 ml",
+			"Beer - British bitter ale"
+		],
+		"recipe": "POUR ingredients into ice-filled glass and stir",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"데이트",
+				"발렌타인.화이트데이"
+			]
+		}
+	},
+	{
+		"name": "Benton's Old Fashioned ",
+		"name_kor": "벤토의 구식",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af2fcd210e2f.jpg",
+		"base": "Etc.",
+		"garnish": "Orange twist",
+		"flavor": "Undefined",
+		"abv": 30.2,
+		"abv_lv": 4,
+		"ingredients": [
+			"60 ml",
+			"Whiskey - Bourbon whiskey (bacon fat washed)",
+			"7.5 ml",
+			"Maple syrup",
+			"2",
+			"Angostura or other aromatic bitters"
+		],
+		"recipe": "STIR bourbon and maple syrup in base of mixing glass until syrup dissolves",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인",
+				"3인"
+			],
+			"상황별": [
+				"오늘밤 주인공은 나",
+				"To Go",
+				"여름휴가"
+			]
+		}
+	},
+	{
+		"name": "Bermondsey Minute",
+		"name_kor": "버몬지 미닛",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af2fcd956986.jpg",
+		"base": "Tequila",
+		"garnish": "Lemon & orange zest twists (discarded) and float 3 coffee beans",
+		"flavor": 5,
+		"abv": 24.14,
+		"abv_lv": 3,
+		"ingredients": [
+			"60 ml",
+			"Tequila reposado",
+			"20 ml",
+			"Vermouth - sweet aged (Antica Formula)",
+			"7.5 ml",
+			"Maraschino liqueur",
+			"7.5 ml",
+			"Lavender sugar syrup",
+			"0.2 ml",
+			"Lavender bitters (optional)",
+			"10 ml",
+			"Chilled water (omit if using wet ice)"
+		],
+		"recipe": "STIR all ingredients with ice and strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"소개팅",
+				"데이트"
+			]
+		}
+	},
+	{
+		"name": "Bitter Jean",
+		"name_kor": "비터 진",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2021/09/6139fec094bc7.jpg",
+		"base": "Whisky",
+		"garnish": " Two Luxardo Maraschino cherries on stick",
+		"flavor": 7,
+		"abv": 28.01,
+		"abv_lv": 3,
+		"ingredients": [
+			"60 ml",
+			"Speyside single malt Scotch whisky",
+			"10 ml",
+			"Whisky - Islay single malt Scotch whisky",
+			"15 ml",
+			"Crème de cassis liqueur",
+			"22.5 ml",
+			"Vermouth - sweet aged (Antica Formula)",
+			"8",
+			"Angostura or other aromatic bitters"
+		],
+		"recipe": "STIR all ingredients with ice and strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"나쁨"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"이별",
+				"친구와"
+			]
+		}
+	},
+	{
+		"name": "Blood and Sand (Classic formula)",
+		"name_kor": "블러드 앤 샌드(클래식 포뮬러)",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/11/5beecf76e7599.jpg",
+		"base": "Whisky",
+		"garnish": "Orange zest twist",
+		"flavor": 6,
+		"abv": 15.93,
+		"abv_lv": 2,
+		"ingredients": [
+			"22.5 ml",
+			"Whisky - Scotch whisky (blended)",
+			"22.5 ml",
+			"Cherry brandy liqueur",
+			"22.5 ml",
+			"Vermouth - Rosso/rouge (sweet) vermouth",
+			"22.5 ml",
+			"Orange juice (freshly squeezed)"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"오늘밤 주인공은 나",
+				"To Go"
+			]
+		}
+	},
+	{
+		"name": "Blood and Sand (Difford's recipe)",
+		"name_kor": "피와 모래 (디포드의 레시피)",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/5/39/20188ecc284bbc49b89b21053a76117ca9de.jpg",
+		"base": "Whisky",
+		"garnish": "Orange zest twist (discarded) & Luxardo Maraschino cherry",
+		"flavor": 6,
+		"abv": 16.81,
+		"abv_lv": 2,
+		"ingredients": [
+			"30 ml",
+			"Whisky - Scotch whisky (blended)",
+			"22.5 ml",
+			"Cherry brandy liqueur",
+			"22.5 ml",
+			"Vermouth - Rosso/rouge (sweet) vermouth",
+			"5 ml",
+			"Whisky - Islay single malt Scotch whisky (optional)",
+			"30 ml",
+			"Orange juice (freshly squeezed)"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"오늘밤 주인공은 나",
+				"To Go",
+				"여름휴가"
+			]
+		}
+	},
+	{
+		"name": "Blooded Knees Cocktail",
+		"name_kor": "블러디드 니즈 칵테일",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af2fd83a2800.jpg",
+		"base": "Gin",
+		"garnish": "Orange zest twist",
+		"flavor": 7,
+		"abv": 16.65,
+		"abv_lv": 2,
+		"ingredients": [
+			"60 ml",
+			"Gin",
+			"20 ml",
+			"Honey syrup (3 honey to 1 water)",
+			"22.5 ml",
+			"Blood orange juice",
+			"22.5 ml",
+			"Lemon juice (freshly squeezed)"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"오늘밤 주인공은 나",
+				"To Go",
+				"여름휴가"
+			]
+		}
+	},
+	{
+		"name": "Bloody Mary (Difford's recipe)",
+		"name_kor": "블러디 메리(디포드의 레시피)",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2021/03/60537cdedaa5e.jpg",
+		"base": "Etc.",
+		"garnish": "Celery salt & black pepper rim + garnish with celery stick, cherry tomato & strip yellow bell pepper",
+		"flavor": 6,
+		"abv": 11.12,
+		"abv_lv": 2,
+		"ingredients": [
+			"1",
+			"/ Yellow bell pepper (optional)",
+			"45 ml",
+			"Vodka",
+			"67.5 ml",
+			"Tomato juice",
+			"10 ml",
+			"Sherry - Amontillado",
+			"10 ml",
+			"Lemon juice (freshly squeezed)",
+			"7.5 ml",
+			"Sugar syrup (rich) 2 sugar to 1 water",
+			"2",
+			"Celery salt",
+			"3",
+			"Black pepper",
+			"8",
+			"Hot pepper sauce (red)",
+			"4",
+			"Worcestershire sauce"
+		],
+		"recipe": "MUDDLE pepper in base of shaker",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"소개팅",
+				"데이트",
+				"To Go",
+				"발렌타인/화이트데이",
+				"크리스마스"
+			]
+		}
+	},
+	{
+		"name": "Bobby Burns (Difford's own)",
+		"name_kor": "바비 번스(디포드 소유)",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/5/06/20181a12afe87d4df47df7c795535f05f0b9.jpg",
+		"base": "Whisky",
+		"garnish": "Lemon zest twist (discarded) & slice of shortbread",
+		"flavor": 5,
+		"abv": 25.63,
+		"abv_lv": 3,
+		"ingredients": [
+			"30 ml",
+			"Whisky - Scotch whisky (blended)",
+			"30 ml",
+			"Vermouth - Rosso/rouge (sweet) vermouth",
+			"15 ml",
+			"Bénédictine D.O.M. liqueur",
+			"2",
+			"Peychaud's / Creole bitters",
+			"1",
+			"Absinthe verte (green)"
+		],
+		"recipe": "STIR all ingredients with ice and strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"나쁨"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"이별",
+				"친구와"
+			]
+		}
+	},
+	{
+		"name": "Bonaparte's Manhattan",
+		"name_kor": "보나파르트의 맨해튼",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/8/14/20189353ff9f3139b206de6fce664f3848c7.jpg",
+		"base": "Etc.",
+		"garnish": "Luxardo Maraschino cherry",
+		"flavor": 8,
+		"abv": 32.32,
+		"abv_lv": 4,
+		"ingredients": [
+			"45 ml",
+			"Whiskey - Rye whiskey (100 proof / 50% alc./vol.)",
+			"15 ml",
+			"Vermouth - Rosso/rouge (sweet) vermouth",
+			"10 ml",
+			"Mandarine liqueur",
+			"5 ml",
+			"Amaro - Averna"
+		],
+		"recipe": "STIR all ingredients with ice and strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"나쁨"
+			],
+			"인원별": [
+				"1인"
+			],
+			"상황별": [
+				"오늘밤 주인공은 나",
+				"이별"
+			]
+		}
+	},
+	{
+		"name": "Bradford Martini",
+		"name_kor": "브랴드포드 마티니",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af2fe1b37c71.jpg",
+		"base": "Gin",
+		"garnish": "Chilled olive on stick or lemon zest twist",
+		"flavor": 9,
+		"abv": 30.71,
+		"abv_lv": 4,
+		"ingredients": [
+			"60 ml",
+			"Gin",
+			"12.5 ml",
+			"Vermouth - Dry",
+			"2",
+			"Orange bitters (optional)"
+		],
+		"recipe": "SHAKE all ingredients with ice and fine strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"나쁨"
+			],
+			"인원별": [
+				"1인"
+			],
+			"상황별": [
+				"오늘밤 주인공은 나",
+				"이별",
+				"비오는 날"
+			]
+		}
+	},
+	{
+		"name": "Brandy Sangaree",
+		"name_kor": "브랜디 상가리",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2019/11/5dce894042f68.jpg",
+		"base": "Brandy",
+		"garnish": "Dust with freshly grated nutmeg",
+		"flavor": 6,
+		"abv": 26.3,
+		"abv_lv": 3,
+		"ingredients": [
+			"45 ml",
+			"Cognac (brandy)",
+			"22.5 ml",
+			"Tawny port",
+			"5 ml",
+			"Sugar syrup (rich) 2 sugar to 1 water"
+		],
+		"recipe": "STIR all ingredients with ice and strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"오늘밤 주인공은 나",
+				"To Go",
+				"친구와"
+			]
+		}
+	},
+	{
+		"name": "Breakfast Club",
+		"name_kor": "조식클럽",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af2fe44beca7.jpg",
+		"base": "Etc.",
+		"garnish": "Lemon zest twist",
+		"flavor": "Undefined",
+		"abv": 20.16,
+		"abv_lv": 3,
+		"ingredients": [
+			"1",
+			"Orange marmalade",
+			"1",
+			"Honey",
+			"60 ml",
+			"Rum - White (charcoal-filtered) 1-3 year old light",
+			"30 ml",
+			"Lapsang Souchong tea (cold)"
+		],
+		"recipe": "STIR honey and marmalade with rum until dissolved",
+		"tag": {
+			"기분별": [
+				"좋음"
+			],
+			"인원별": [
+				"1인"
+			],
+			"상황별": [
+				"오늘밤 주인공은 나",
+				"To Go",
+				"여름휴가"
+			]
+		}
+	},
+	{
+		"name": "Breakfast Martini",
+		"name_kor": "아침 마티니",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2019/05/5cf0fb0949fdb.jpg",
+		"base": "Etc.",
+		"garnish": "Orange zest twist & slice of toast on rim",
+		"flavor": 7,
+		"abv": 27.72,
+		"abv_lv": 3,
+		"ingredients": [
+			"1",
+			"Orange marmalade",
+			"50 ml",
+			"Gin",
+			"15 ml",
+			"Triple sec (e.g. Cointreau)",
+			"15 ml",
+			"Lemon juice (freshly squeezed)"
+		],
+		"recipe": "STIR marmalade with gin in base of shaker until it dissolves",
+		"tag": {
+			"기분별": [
+				"나쁨"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"이별",
+				"비오는날"
+			]
+		}
+	},
+	{
+		"name": "Brooklyn (Grohusko's original)",
+		"name_kor": "브루클린",
+		"img": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af2fe59e2e29.jpg",
+		"base": "Etc.",
+		"garnish": "Skewered Luxardo maraschino cherry",
+		"flavor": 6,
+		"abv": 25.31,
+		"abv_lv": 3,
+		"ingredients": [
+			"45 ml",
+			"Whiskey - Rye whiskey (100 proof / 50% alc./vol.)",
+			"45 ml",
+			"Vermouth - Rosso/rouge (sweet) vermouth",
+			"5 ml",
+			"Amer Picon",
+			"5 ml",
+			"Maraschino liqueur",
+			"10 ml",
+			"Chilled water"
+		],
+		"recipe": "STIR all ingredients with ice and strain into chilled glass",
+		"tag": {
+			"기분별": [
+				"나쁨"
+			],
+			"인원별": [
+				"1인",
+				"2인"
+			],
+			"상황별": [
+				"이별",
+				"비오는 날"
+			]
+		}
+	}
+]

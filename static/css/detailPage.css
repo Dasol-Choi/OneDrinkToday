@@ -1,0 +1,201 @@
+@font-face {
+  src: url("/static/css/fonts/GmarketSansTTFBold.ttf");
+  font-family: "gmsans_bold";
+}
+
+@font-face {
+  src: url("/static/css/fonts/GmarketSansTTFMedium.ttf");
+  font-family: "gmsans_medium";
+}
+
+@font-face {
+  src: url("/static/css/fonts/GmarketSansTTFLight.ttf");
+  font-family: "gmsans_light";
+}
+
+
+#main_detail {
+  display: flex;
+  flex-direction: row;
+  width: 60vw;
+  margin: 100px auto;
+}
+
+.boxes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60vw;
+}
+
+#cockTailsImg {
+  display: flex;
+  align-items: center;
+  padding-right: 30px;
+}
+
+#cockTailsInfo {
+  display: flex;
+  align-items: center;
+  max-width: 30vw;
+}
+
+.card-img-top {
+  max-width: 25vw;
+  max-height: 100%;
+  border-radius: 15px;
+  box-shadow:0px 2px 10px 2px #fdbbfce6;
+}
+
+.list-group {
+  box-shadow:0px 2px 10px 2px #af64aee6;
+  border-radius: 15px;
+}
+
+.list-group-item {
+  background-color: rgb(108, 73, 128);
+  color: rgb(214, 214, 214);
+  font-family: "gmsans_medium";
+  font-size: 14px;
+  padding-top: 15px;
+}
+
+.list-group-item:first-child {
+  border-radius: 15px 15px 0px 0px;
+}
+
+.list-group-item:last-child {
+  border-radius: 0px 0px 15px 15px;
+}
+
+.cocktail_title {
+  font-family: "gmsans_medium";
+}
+
+.cockTailNameList_en {
+  list-style-type: none;
+  font-family: "gmsans_medium";
+  font-size: 30px;
+  color: rgb(201, 168, 209);
+  border-radius: 15px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+.cockTailNameList_ko {
+  list-style-type: none;
+  font-family: "gmsans_bold";
+  font-size: 60px;
+  color: rgb(255, 255, 255);
+  border-radius: 15px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.btn_share_kakao {
+  display: flex;
+  justify-content: center;
+  margin: 0px;
+}
+
+.btn_kakao {
+  background-color: #F9e000;
+  border-radius: 15px;
+  border: 0px;
+  color: #3b1e1e;
+  padding: 20px 20px 15px 20px;
+  font-size: 20px;
+  font-family: "gmsans_bold";
+  box-shadow:0px 2px 10px 2px #ffdb3be6;
+}
+
+.btn_kakao:hover {
+  box-shadow:0px 2px 10px 2px #ffdb3be6;
+}
+
+.recommendation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 40px;
+  font-family: "gmsans_bold";
+  margin-top: 150px;
+}
+
+.emphasis_recommendation {
+  font-family: "gmsans_bold";
+  font-size: 50px;
+  margin-left: 15px;
+  margin-bottom: 5px;
+  color: rgb(255, 219, 60);
+}
+
+#recommend .lst-recommend {
+  max-width: 800px;
+}
+
+#recommend .card-cocktail {
+  box-shadow: 0px 2px 10px 2px #c666dae6;
+}
+
+
+
+@media screen and (max-width: 1280px) {
+  .boxes {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    width: 60vw;
+  }
+
+  #cockTailsImg {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-right: 0px;
+    margin-bottom: 40px;
+  }
+
+  .card-img-top {
+    max-width: 38vw;
+    max-height: 100%;
+    border-radius: 15px;
+    box-shadow:0px 2px 10px 2px #fdbbfce6;
+  }
+
+  #cockTailsInfo {
+    display: flex;
+    align-items: center;
+    max-width: 60vw;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cockTailNameList_en {
+    font-size: 20px;
+  }
+
+  .cockTailNameList_ko {
+    font-size: 40px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .recommendation {
+    font-size: 7vw;
+  }
+
+  .emphasis_recommendation {
+    font-size: 9vw;
+    margin-left: 10px;
+  }
+
+  .cockTailNameList_en {
+    font-size: 5vw;
+  }
+
+  .cockTailNameList_ko {
+    font-size: 9vw;
+  }
+}

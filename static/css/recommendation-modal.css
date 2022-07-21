@@ -1,0 +1,196 @@
+* {
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+.modal-whole {
+    text-align: center;
+    border-radius: 20px;
+    background: linear-gradient(rgb(241, 216, 252) 50%, rgb(248, 205, 245));
+}
+
+.modal-header {
+    padding: 10px 10px 5px 10px;
+    border-bottom: 1px solid rgb(241, 210, 255);
+}
+
+.modal-title {
+    font-weight: 700;
+    font-size: 20px;
+    color: rgb(115, 46, 146);
+    padding-left: 10px;
+}
+
+.close{
+    border : none;
+    background-color: rgb(241, 216, 252);
+    font-size : 35px;
+    color: rgb(115, 46, 146);
+}
+
+.start-title {
+    font-size : 40px;
+    font-weight: 700;
+    color: rgb(101, 32, 133);
+}
+
+.emphasis_cocktail {
+    font-size : 50px;
+    color: rgb(180, 25, 154);
+}
+
+.start-disc{
+    font-size : 20px;
+    color:rgb(44, 12, 59);
+}
+
+.btn_start {
+    margin-top: 50px;
+    margin-bottom: 40px;
+    padding: 25px 25px 20px 25px;
+    border: none;
+    border-radius: 15px;
+    font-size: 24px;
+    font-weight: 700;
+    color: white;
+    background: linear-gradient(rgb(89, 29, 117), rgb(165, 35, 154));
+}
+
+.btn_start:hover {
+    box-shadow:0px 2px 10px 2px rgb(156, 28, 150);
+}
+
+.btn_close {
+    border : none;
+    background-color: rgb(146, 46, 146);
+    font-size : 16px;
+    font-weight: 700;
+    color: rgb(254, 235, 255);
+    border-radius : 10px;
+    padding: 10px 10px 5px 10px;
+}
+
+.modal-footer {
+    padding: 20px 15px 15px 20px;
+    border-top: 1px solid rgb(255, 212, 251);
+}
+
+.quiz{
+    display: block;
+}
+
+#main {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.status {
+    height: 20px;
+    width: 55%;
+    background-color: #f8eaff;
+    margin: 5px auto;
+    border-radius: 20px;
+}
+
+.statusBar{
+    margin-top: 30px;
+    border-radius :20px;
+    height: 100%;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,207cca+51,7db9e8+100;Blue+Gloss+Default */
+    background: rgb(98, 30, 153); /* Old browsers */
+    background: -moz-linear-gradient(top, rgb(104, 30, 153) 0%, rgb(137, 41, 216) 50%, rgb(140, 32, 202) 51%, rgb(184, 125, 232) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, rgb(104, 30, 153) 0%, rgb(137, 41, 216) 50%, rgb(140, 32, 202) 51%, rgb(184, 125, 232) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, rgb(104, 30, 153) 0%, rgb(137, 41, 216) 50%, rgb(140, 32, 202) 51%, rgb(184, 125, 232) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#1e5799', endColorstr='#7db9e8', GradientType=0); /* IE6-9 */
+}
+
+.question{
+    padding-top : 40px;
+    padding-bottom : 30px;
+    font-size : 27px;
+    font-weight: 700;
+    color: rgb(81, 20, 107);
+}
+
+.btn-outline-primary {
+    color:rgb(247, 230, 255);
+    font-size: 20px;
+    font-weight: 400;
+    padding: 10px 0px 5px 0px;
+    border: none;
+    border-radius: 30px;
+}
+
+.btn-outline-primary:hover {
+    color: #fff;
+    background-color: #48104d;
+    box-shadow: 0px 2px 10px 2px rgb(73, 9, 70);
+    border: none;
+}
+
+.btn-outline-primary:active {
+    border: none;
+}
+
+.final-btn{
+    display : block;
+    margin : 0px auto 10px;
+    border-radius: 5px;
+    background: linear-gradient(rgb(89, 29, 117), rgb(165, 35, 154));
+    padding: 15px 0px 10px 0px;
+    width : 200px;
+    border: none;
+    border-radius: 15px;
+    font-weight: 700;
+}
+
+.btn-a{
+    display: block;
+    height : 50px;
+    width : 200px;
+    border-radius: 10px;
+    background-color: rgb(147, 50, 150);
+    margin: 10px auto 20px;
+}
+
+.buttons{
+    display : block;
+    margin : 10px auto 50px;
+}
+
+.final_btns {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.result-title{
+    margin-top: 30px;
+    font-size : 40px;
+    font-weight: 700;
+    color: rgb(101, 32, 133);
+}   
+
+.emphasis_title {
+    font-size : 50px;
+    font-weight: 700;
+    color: rgb(180, 25, 154);
+}   
+
+.resultName_k {
+    display: block;
+    margin : 0px auto 10px;
+    font-size : 30px;
+    font-weight: 700;
+    color: rgb(53, 10, 73);
+}
+.resultName_e {
+    display: block;
+    margin : 30px auto 0px;
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(107, 51, 133);
+}
+
+.img-box{
+    width : 200px;
+    border-radius: 15px;
+}

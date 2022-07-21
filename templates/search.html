@@ -1,0 +1,102 @@
+{% extends '_layout_flask.html' %}
+{% set active_gnb = 'search'%}
+{% block headLink %}
+    <link href="/static/css/aos.css" rel="stylesheet">
+{% endblock %}
+{% block content %}
+    <div class="wrap-category">
+        {% include 'include/navBar_left.html' %}
+
+        <div class="sub_cont_inner">
+            <form id="search_cocktail" autocomplete="off">
+                <fieldset>
+                    <legend>칵테일 검색</legend>
+                    <div class="input-group wrap-search">
+                        <div class="form-outline">
+                            <input type="text" title="칵테일 이름 입력" name="keyword" id="form1" class="form-control"
+                                   placeholder="칵테일 이름을 검색하세요"/>
+                        </div>
+
+                        <button type="button" class="btn btn-filter" data-role="btn-filter">
+                            <i class="bi bi-funnel"></i>
+                            <span class="blind">조건 검색하기</span>
+                        </button>
+                        
+                        <button class="btn btn-search">
+                            <i class="bi bi-search"></i>
+                            <span class="blind">검색하기</span>
+                        </button>
+                    </div>
+                </fieldset>
+            </form>
+
+            <script>
+                const keyword = window.location.href.split('keyword=')[1].split('#')[0];
+                if( keyword ) {
+                    $('.form-control').val( decodeURI(keyword) ).focus();
+                }
+                $('.wrap-search').addClass('is-focus');
+            </script>
+
+       
+        {% if cocktailList %}
+            <ul class="lst-cocktail category"></ul>
+
+            <script>
+                initList()
+                function initList () {
+                    const url = '/api/search?keyword='+keyword;
+                    $.ajax({
+                        url: url,
+                        type: 'get',
+                        success: function(response){
+                            const row = response['cocktail_result'];
+                            listPaging(row)
+                            let HTML = makeHTML(cocktailList[0]);
+                            $('.lst-cocktail').html(HTML);
+                        }
+                    })
+                }
+            </script>
+        {% endif %}
+
+        {% if emptyList %}
+            <div class="bx-empty">
+                <strong class="msg-empty">
+                    검색 결과가 없습니다.<br>
+                    몇가지 칵테일을 추천해드릴게요.
+                </strong>
+            </div>
+
+            <ul class="lst-recommend">
+                {% for item in emptyList %}
+                    <li class="lst-item" data-aos="fade-up" data-aos-offset="0">
+                        {% set coverItem = ["Pimm's Cup (or Classic Pimm's)","Mezcal Margarita"] %}
+                        
+                        <a href="/{{ item.name | urlencode }}" class="card-cocktail {{'cover' if item.name in coverItem}}">
+                            <div class="bx-thumb">
+                                <img src="{{ item.img }}" alt="{{ item.name }}">
+                            </div>
+                            <div class="bx-cocktail-info">
+                                <span class="cocktail-en-name">{{ item.name }}</span>
+                                <strong class="cocktail-name">{{ item.name_kor }}</strong>
+                                <p class="cocktail-ingredients">베이스 : {{ item.base_kor }}</p>
+                            </div>
+                        </a>
+                    </li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+    </div>
+    </div>
+
+{% endblock %}
+
+{% block script %}
+<script src="/static/lib/aos.js"></script>
+<script>
+  AOS.init({
+      duration: 1000,
+  });
+</script>
+{% endblock %}

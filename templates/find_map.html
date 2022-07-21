@@ -1,0 +1,94 @@
+{% extends '_layout_flask.html' %} {# 메뉴 활성화 시킬 때 사용합니다 >>
+search/situation/map << 메뉴 활성화 키값 중 선택, 활성화 필요없을 경우 빈값 #}
+{% set active_gnb = 'map'%}
+{% set title = '칵테일바 검색'%}
+{% block script %}
+<script src="https://developers.kakao.com/sdk/js/kakao.js"></script>
+<script src="//dapi.kakao.com/v2/maps/sdk.js?appkey=d05a8a51760087081058959e46cd7a13&libraries=services"></script>
+<script src="static/js/kakaomapAPI.js"></script>
+<script>
+    Kakao.init('91162417cc0810280c6a8d727a6240cf');
+    Kakao.isInitialized();
+</script>
+<script>
+const decodedparam = decodeURI(window.location.search);
+var sch_param = new URLSearchParams(decodedparam);
+var sch_keyword = sch_param.get('searchby');
+const sch_form = document.getElementById('search_bar');
+if(sch_keyword){
+		 $('#location').val(sch_keyword);
+		 sch_form.onsubmit();
+	}
+function kakaoShare() {
+	var mylocation = $('#location').val();
+    Kakao.Link.sendDefault({
+        objectType: 'feed',
+        content: {
+            title: '🍸오늘한잔::내 주변 칵테일바 찾기🍹',
+            description: `오늘 ${mylocation} 근처에서 한 잔 어때요?`,
+            imageUrl:
+                'https://ifh.cc/g/d9vgJn.jpg',
+            link: {
+                webUrl: `http://오늘한잔.shop/map?searchby=${mylocation}`,
+                mobileWebUrl: `http://오늘한잔.shop/map?searchby=${mylocation}`,
+				androidExecutionParams: 'test',
+				iosExecutionParams: 'test'
+            },
+        },
+        buttons: [
+            {
+				title: '웹으로 이동',
+				link: {
+				  webUrl: `http://오늘한잔.shop/map?searchby=${mylocation}`,
+				  mobileWebUrl: `http://오늘한잔.shop/map?searchby=${mylocation}`,
+				  androidExecutionParams: 'test',
+				  iosExecutionParams: 'test'
+				},
+            },
+        ]
+    });
+}
+</script>
+{% endblock %}
+{% block headLink %} {# 만약 haed 태그 안에 넣을 link가 있다면 #}
+<link href="/static/css/find_map.css" rel="stylesheet">
+{% endblock %}
+{% block content %}
+<div class="sub_cont_inner">
+<div class="whole">
+<div class="title_find_bar">내 주변 <br><span class="emphasis_cocktail_bar">칵테일 바</span> 찾기</div>
+<!-- 지도를 표시할 div 입니다 -->
+<!-- 지도를 표시할 div 입니다 -->
+<div class="option">
+	<form id="search_bar" onsubmit="searchPlaces(); return false;">
+		<div class="input-group wrap-search">
+			<div class="form-outline">
+					<input type="text" title="검색어를 입력하세요" name="keyword" id="location" class="form-control"
+									placeholder="주소(예:서울 중구)나 장소(예:홍대) 검색"/>
+			</div>
+			<button class="btn btn-search" id="search_bar_btn">
+					<i class="bi bi-search"></i>
+					<span class="blind">검색하기</span>
+			</button>
+		</div>
+	</form>
+</div>
+<script>
+$('.form-control').focus();
+$('.wrap-search').addClass('is-focus');
+</script>
+<div class="map_wrap">
+    <div id="map" style="width:100%;height:100%;border-radius:12px;margin-top:40px;margin-bottom:30px;position:relative;">
+        <div id="menu_wrap" class="bg_white">
+            <ul id="placesList"></ul>
+            <div id="pagination"></div>
+        </div>
+    </div>
+</div>
+<div class="btn_share_kakao">
+    <button type="button" class="btn_kakao" onclick="kakaoShare()">카카오톡 공유하기</button>
+</div>
+</div>
+</div>
+{% endblock %}
+

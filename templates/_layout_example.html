@@ -1,0 +1,14 @@
+{% extends '_layout_flask.html' %} {# 메뉴 활성화 시킬 때 사용합니다 >>
+search/situation/map << 메뉴 활성화 키값 중 선택, 활성화 필요없을 경우 빈값 #}
+{% set active_gnb = 'search'%}
+{% block headLink %} {# 만약 haed 태그 안에 넣을 link가 있다면 #}
+    <link href="/static/css/aos.css" rel="stylesheet">
+{% endblock %}
+{% block content %}
+<div class="sub_cont_inner">페이지 컨텐츠 내용</div>
+{% endblock %} {# 만약 해당 페이지에서만 특별히 사용할 js 가 있다면 #}
+{% block script %}
+<script>
+  console.log(1);
+</script>
+{% endblock %}

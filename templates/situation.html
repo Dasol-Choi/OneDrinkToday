@@ -1,0 +1,12 @@
+{% extends '_layout_flask.html' %}
+{% set active_gnb = 'situation'%}
+{% set title= '상황별 추천' %}
+{% block content %}
+    <div class="wrap-situation">
+        <div class="sub_cont_inner">
+            {% include 'include/navBar_top.html' %}
+
+            <ul class="lst-cocktail situation"></ul>
+        </div>
+    </div>
+{% endblock %}

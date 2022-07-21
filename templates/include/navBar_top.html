@@ -1,0 +1,66 @@
+<script src="/static/js/list.js"></script>
+<script>
+    function topSearching(param, detail) {
+        let title = '/__default'
+        let category = ''
+        if (param == 1){
+            category = '기분별'
+        }else if (param == 2) {
+            category = '인원별'
+        }else if (param == 3){
+            category = '상황별'
+        }else if (param == 4){
+            category = '상황별'
+        }else if (param == 5){
+            category = '상황별'
+        }else if (param == 6){
+            category = '상황별'
+        }else{
+            category = 'default'
+        }
+        
+        $.ajax({
+            type: "GET",
+            url: "/search/"+category+"/"+detail + title,
+            data: {},
+            success: function (response) {
+                const row = response['cocktail_result'];
+
+                listPaging(row)
+                let HTML = makeHTML(cocktailList[0]);
+                $('.lst-cocktail').html(HTML);
+            }
+        });
+    }
+    topSearching(0, '0');
+
+</script>
+
+<div class="bx-situation">
+    <ul class="lst-situation">
+        <li class="item is-active">
+            <span class="btn all" onclick="topSearching(0, '0')">전체 보기</span>
+        </li>
+        <li class="item">
+            <span class="btn situation1" onclick="topSearching(1, '나쁨')">우울한 날</span>
+        </li>
+        <li class="item">
+            <span class="btn situation2" onclick="topSearching(2, '1인')">혼자마실 때</span>
+        </li>
+        <li class="item">
+            <span class="btn situation3" onclick="topSearching(3, '데이트')">데이트</span>
+        </li>
+        <li class="item">
+            <span class="btn situation4" onclick="topSearching(4, '여름휴가')">여름휴가</span>
+        </li>
+        <li class="item">
+            <span class="btn situation5" onclick="topSearching(5, 'To Go')">나들이</span>
+        </li>
+        <li class="item">
+            <span class="btn situation6" onclick="topSearching(6, '오늘밤 주인공은 나')">파티</span>
+        </li>
+    </ul>
+</div>
+
+<script src="/static/lib/swiper-bundle.min.js"></script>
+<script src="/static/js/slide.js" type="module"></script>

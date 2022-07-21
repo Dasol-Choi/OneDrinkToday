@@ -1,0 +1,56 @@
+{% extends '_layout_flask.html' %}
+{% set active_gnb = 'search'%}
+{% set title= '칵테일 검색' %}
+{% block content %}
+    <div class="wrap-category">
+        {% include 'include/navBar_left.html' %}
+
+        <div class="sub_cont_inner">
+            <form id="search_cocktail" autocomplete="off">
+                <fieldset>
+                    <legend>칵테일 검색</legend>
+                    <div class="input-group wrap-search">
+                        <div class="form-outline">
+                            <input type="text" title="칵테일 이름 입력" name="keyword" id="form1" class="form-control"
+                                   placeholder="칵테일 이름을 검색하세요"/>
+                        </div>
+
+                        <button type="button" class="btn btn-filter" data-role="btn-filter">
+                            <i class="bi bi-funnel"></i>
+                            <span class="blind">조건 검색하기</span>
+                        </button>
+                        
+                        <button class="btn btn-search">
+                            <i class="bi bi-search"></i>
+                            <span class="blind">검색하기</span>
+                        </button>
+                    </div>
+                </fieldset>
+            </form>
+
+            <script>
+                $('.form-control').focus();
+                $('.wrap-search').addClass('is-focus');
+            </script>
+
+            <ul class="lst-cocktail category"></ul>
+            
+            <script>
+                initList()
+                function initList () {
+                    const url = '/api/search?keyword=';
+                    $.ajax({
+                        url: url,
+                        type: 'get',
+                        success: function(response){
+                            const row = response['cocktail_result'];
+                            listPaging(row)
+                            let HTML = makeHTML(cocktailList[0]);
+                            $('.lst-cocktail').html(HTML);
+                        }
+                    })
+                }
+            </script>
+        </div>
+    </div>
+{% endblock %}

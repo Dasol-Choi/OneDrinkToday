@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:image" content="https://ifh.cc/g/d9vgJn.jpg">
+    <title>오늘 한 잔</title>
+
+    <link rel="stylesheet" href="/static/css/bootstrap.min.css">
+    <!-- 부트스트랩 아이콘 -->
+    <link rel="stylesheet" href="/static/css/bootstrap-icons.css">
+    <!-- 한글 용 폰트 -->
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/static/css/main.css">
+    <link rel="stylesheet" href="/static/css/header.css">
+    <link rel="stylesheet" href="../static/css/style.css">
+    <link rel="stylesheet" href="../static/css/recommendation-modal.css">
+
+    <script src="/static/js/header.js" defer></script>
+    <script src="/static/js/main.js" defer></script>
+    <script src="/static/lib/jquery-3.6.0.min.js"></script>
+    <script src="/static/lib/bootstrap.min.js"></script>
+    <script src="https://developers.kakao.com/sdk/js/kakao.js"></script>
+    <script>
+        Kakao.init('91162417cc0810280c6a8d727a6240cf');
+        Kakao.isInitialized();
+    </script>
+</head>
+
+<body>
+<!-- html import할 때 script 구동 안 되는 부분 해결 필요 -->
+    <nav id="gnb">
+        <div class="navbar_logo">
+            <a href="/"><img src="/static/img/logo_h100.png" id="logo_img"></a>
+        </div>
+        <ul class="navbar_menu">
+            <li><a href="/list"><img class="menu_img" src="/static/img/menu_search_cocktail_h70.png"></a></li>
+            <li><a href="/situation"><img class="menu_img" src="/static/img/menu_offer_h70.png"></a></li>
+            <li><a href="/map"><img class="menu_img" src="/static/img/menu_search_bar_h70.png"></a></li>
+        </ul>
+
+        <a href="#">
+            <img class="navbar_toggleBtn" src="/static/img/navbar_togglebtn_h120.png">
+        </a>
+    </nav>
+        <div id="main_view">
+            <div>
+                <img src="/static/img/main_logo_black_h1180.png" class="logo_back">
+                <img src="/static/img/main_logo_h1180.png" class="logo">
+            </div>
+
+            <div id="search">
+                <p class="text_cocktail">모히토? 마티니? 준벅?</p>
+                <h1 class="text_guide"><span class="text_cocktail_color">칵테일</span>이 궁금할 때 <span class="text_search_color">검색</span>해보세요!</h1>
+                <form id="search_cocktail" autocomplete="off">
+                    <fieldset>
+                        <div class="search_box">
+                            <!-- 칵테일 정보 페이지로 넘어가는 부분 -->
+                            <input placeholder="칵테일 이름 입력" name="keyword" type="text" class="input_box">
+                            <button href="#" class="btn_search">
+                                <i class="bi-search"></i>
+                            </button>
+                        </div>
+                    </fieldset>
+                </form>
+
+                <script>
+                    $('.input_box').focus();
+                </script>
+
+   <!-- 칵테일 테스트 모달 나오는 부분 -->
+                <button class="btn_offer">
+                    <p class="btn_offer_text" data-toggle="modal" data-target=".bd-example-modal-lg"><span class="btn_cocktail_color">칵테일</span> 추천 받기</p>
+                </button>
+                <div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myExtraLargeModalLabel"
+                aria-hidden="true" id="modal">
+               <div class="modal-dialog modal-lg" role="document">
+                   <div class="modal-content modal-whole">
+                       <div class="modal-header">
+                           <h5 class="modal-title" id="staticBackdropLabel">오늘의 칵테일 추천</h5>
+                           <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="goToMain()">
+                               <span aria-hidden="true">&times;</span>
+                           </button>
+                       </div>
+                       <div class="modal-body">
+                           <div class="container">
+                               <section id="main">
+                                   <h2 class="start-title">나에게 어울리는 <span class="emphasis_cocktail">칵테일</span>은?</h2>
+                                   <h5 class="pt-5 start-disc">
+                                       간단한 질문들에 응답해 주세요. <br> <br>
+                                       아래 시작하기 버튼을 누르면 테스트가 시작됩니다.
+                                   </h5>
+                                   <button onclick="begin()" class="btn_start">시작하기</button>
+                               </section>
+                               <section class="grid" id="qna" style="display: none">
+                                   <div class="status">
+                                       <div class="statusBar">
+                                       </div>
+                                   </div>
+                                   <div id="quiz" >
+                                       <p id="question" class="question"></p>
+                                       <div>
+                                       <button id="buttons" class="btn_text"></button>
+                                       </div>
+                                   </div>
+                               </section>
+                               <section id="result" style="display:none">
+                                   <h2 class="result-title">오늘의 <span class="emphasis_title">한 잔</span>은?</h2>
+                                   <div class="resultName">
+                                       <div class="resultName_e"></div>
+                                       <div class="resultName_k"></div>
+                                   </div>
+                                   <div class="resultImg">
+                                   </div>
+                                   <div class="final_btns">
+                                       <button type="button" class=" btn-outline-primary mt-4 final-btn " onclick="goToMain()">다시 테스트하기</button>
+                                       <button type="button" class=" btn-outline-primary mt-4 final-btn" onclick="goToDesc()">칵테일 정보 보기</button>
+                                       <button type="button" class=" btn-outline-primary mt-4 final-btn" onclick="kakaoShare()">카카오톡 공유하기</button>
+                                   </div>
+                               </section>
+                           </div>
+
+                       </div>
+                       <div class="modal-footer">
+                        <button type="button" class="btn_close" data-dismiss="modal" onclick="goToMain()">Close</button>
+                    </div>
+                   </div>
+               </div>
+           </div>
+
+            </div>
+        </div>
+
+<script src="/static/js/recommendation-data.js" charset="utf-8"></script>
+<script src="/static/js/recommendation-modal.js" charset="utf-8"></script>
+<script src="/static/js/script.js" type="module"></script>
+
+        </div>
+    </div>
+
+    <footer id="footer">
+      <p class="copy">Copyrightⓒ2022 오늘 한 잔 All rights reserved.</p>
+</footer>
+</body>
+</html>

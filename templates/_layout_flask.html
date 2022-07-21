@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% if metaImg %}
+    <meta property="og:image" content="{{ metaImg }}">
+    {% else %}
+        <meta property="og:image" content="https://ifh.cc/g/d9vgJn.jpg">
+    {% endif %}
+    {% block meta %}{% endblock %}
+    <title>{{ title +' | ' if title }}오늘 한 잔</title>
+
+    <link rel="stylesheet" href="/static/css/bootstrap.min.css">
+    <!-- 부트스트랩 아이콘 -->
+    <link rel="stylesheet" href="/static/css/bootstrap-icons.css">
+    {% block headLink %}{% endblock %}
+    <!-- page에서 사용하는 style -->
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" href="/static/css/header.css">
+    <!-- lib 폴더는 라이브러리를 넣는 폴더입니다. -->
+    <script src="/static/lib/jquery-3.6.0.min.js"></script>
+    <script src="/static/lib/bootstrap.min.js"></script>
+    <script src="/static/js/header.js" defer></script>
+</head>
+<body>
+
+<div class="skip">
+    <a href="#gnb">메뉴로 이동</a>
+    <a href="#container">컨텐츠로 이동</a>
+</div>
+
+<div class="wrap {{ wrapClass if wrapClass}}">
+<header>
+    <!-- nav 태그는 임시로 넣어두었습니다. 지우셔도 되고. 꼭 id="gnb" 만 넣어주세요
+        스킵네비게이션 위치 이동을 위한 id 입니다
+    -->
+    <nav id="gnb">
+        <div class="navbar_logo">
+            <a href="/"><img src="/static/img/logo_h100.png" id="logo_img"></a>
+        </div>
+     
+        {# url 경로 ,키값, 이미지 명 #}
+        {% set gnb = [
+        ('/list', 'search', 'menu_search_cocktail_h70.png'),
+        ('/situation', 'situation',  'menu_offer_h70.png'),
+        ('/map', 'map',  'menu_search_bar_h70.png')
+      ] -%}
+        {% set active_gnb = active_gnb|default('') -%}
+        <ul class="navbar_menu">
+            {% for href, id, img_name in gnb %}
+                <li{% if id == active_gnb %} class="is_active"{% endif %}>
+                    <a href="{{ href|e }}">
+                        <img class="menu_img" src="/static/img/{{ img_name|e }}">
+                    </a>
+                </li>
+            {% endfor %}
+        </ul>
+
+        <a href="#">
+            <img class="navbar_toggleBtn" src="/static/img/navbar_togglebtn_h120.png">
+        </a>
+    </nav>
+</header>
+
+<div id="container">
+    {% block content %}{% endblock %}
+</div>
+
+<footer>
+    <p class="copy">Copyrightⓒ2022 오늘 한 잔 All rights reserved.</p>
+</footer>
+
+<div class="dimmed"></div>
+</div>
+
+<!-- 주안님께서 만들어 놓으셔서 연결만 해두었어요 
+	js 폴더는 저희가 만든 js 넣는 것으로 생각했어요.
+	기능별로 js 파일만들면 좋을 것 같습니다. (제안)
+-->
+<script src="/static/js/script.js" type="module"></script>
+{% block script %}{% endblock %}
+</head>
+</body>
+</html>
