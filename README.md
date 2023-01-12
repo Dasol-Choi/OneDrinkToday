@@ -12,7 +12,8 @@
 * 상황별 칵테일 추천<br>
 * 주변 칵테일 바 검색
 ### 나의 역할
-서비스 기획 & 화면 설계 & 칵테일 추천 테스트 (modal popup)
+* 서비스 기획 & 화면 설계 
+* 칵테일 추천 테스트 (modal popup)
 ### 기술 스펙
 * Front : HTML, CSS, JS, jQuery, Jinja, Bootstrap<br>
 * Back : Python, mongoDB<br>
