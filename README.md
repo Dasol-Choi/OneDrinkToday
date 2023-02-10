@@ -2,9 +2,11 @@
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/103584654/217974170-49ac5f07-4b0d-472c-ad0d-e8e8cb59bc60.gif)<br><br>
 이름부터 종류까지 너무 다양하고 어려운 칵테일에 대한 정보 제공 및 맞춤형 칵테일 추천 사이트
 ### 팀원
-제 1회 스파르타 코딩 공모전 5조 6명 
+* 제 1회 스파르타 코딩 공모전 5조 총 6명 
+### 개발기간
+* 2022.5.2 ~ 5.23
 ### 개발단계
-기획 > 화면 설계 > DB 구축 > 디자인 > 페이지 제작 > DB 연동 > 배포 및 테스트
+* 기획 > 화면 설계 > DB 구축 > 디자인 > 페이지 제작 > DB 연동 > 배포 및 테스트
 ### 구현 기능
 * 칵테일 이름 검색<br>
 * 칵테일 테스트 및 추천<br>
@@ -19,3 +21,5 @@
 * Front : HTML, CSS, JS, jQuery, Jinja, Bootstrap<br>
 * Back : Python, mongoDB<br>
 * Distribution : AWS
+### 공모전 결과
+* 6월 스파르타 코딩 공모전 1위
